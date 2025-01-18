@@ -1,0 +1,4441 @@
+[33mcommit ff10d5382d978938ae64c7f7a648eaf92d0a3b8c[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m)[m
+Author: Ikhwan Sholahuddin <ikhwanshol1604@gmail.com>
+Date:   Sat Jan 18 16:30:30 2025 +0000
+
+    Added personal information
+
+[33mcommit 4cc7e6769795fd51ba3222d8b82d5f8bd5038928[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Merge: a5105298 924d58c7
+Author: Gerry Wang <85090540+gerrywang1117@users.noreply.github.com>
+Date:   Sat Jan 18 10:06:15 2025 +0800
+
+    Merge pull request #162 from irvanfzi/main
+    
+    add submodul challenge1 submissions
+
+[33mcommit a51052980dff3b95213a62f48d6125168a775f3c[m
+Merge: a2730dbd badb5cd5
+Author: Gerry Wang <85090540+gerrywang1117@users.noreply.github.com>
+Date:   Sat Jan 18 10:05:25 2025 +0800
+
+    Merge pull request #170 from Mayaxxx/main
+    
+    add submission task
+
+[33mcommit a2730dbd18b9b8b49fcdb7574eecf6b5d11bc7a4[m
+Merge: d4e44dd5 fd58b9a2
+Author: Gerry Wang <85090540+gerrywang1117@users.noreply.github.com>
+Date:   Sat Jan 18 10:04:23 2025 +0800
+
+    Merge pull request #171 from bangpateng/main
+    
+    Register Arweave Academy
+
+[33mcommit d4e44dd5b41856495b58610a12bf4b3ec5f7f2bc[m
+Merge: 0a5c87a9 36fc883f
+Author: Gerry Wang <85090540+gerrywang1117@users.noreply.github.com>
+Date:   Sat Jan 18 10:03:05 2025 +0800
+
+    Merge pull request #172 from jerremy262/main
+    
+    Complete All Task
+
+[33mcommit 0a5c87a99792d75946dcdc63f578b5cd085d0264[m
+Merge: 156c147b d65b67f2
+Author: Gerry Wang <85090540+gerrywang1117@users.noreply.github.com>
+Date:   Sat Jan 18 10:01:39 2025 +0800
+
+    Merge pull request #173 from evendi-aja/main
+    
+    Hope you can merge my PR
+
+[33mcommit 156c147bcec2d197ead559a9ba987272dc3dd2fd[m
+Merge: c182eebd 7a59e768
+Author: Gerry Wang <85090540+gerrywang1117@users.noreply.github.com>
+Date:   Sat Jan 18 10:00:16 2025 +0800
+
+    Merge pull request #174 from virazahra/main
+    
+    Complete All Task
+
+[33mcommit 7a59e768526b6d5019dcf9e768d5b37dac205d19[m
+Author: yyuanzaa <zahraviradwi@gmail.com>
+Date:   Fri Jan 17 15:30:38 2025 +0000
+
+    Complete All Task
+
+[33mcommit d65b67f2cac5c4f94ca7a297af432a5fd1a7e6a4[m
+Author: Evendi <86565873+evendi-aja@users.noreply.github.com>
+Date:   Fri Jan 17 20:45:18 2025 +0700
+
+    Update template.md with my informations
+
+[33mcommit 4917f6e73dc65311077d3b47234f4b49be718c89[m
+Author: Evendi <86565873+evendi-aja@users.noreply.github.com>
+Date:   Fri Jan 17 20:41:48 2025 +0700
+
+    upload template.md task
+
+[33mcommit 869019c8439ca304dae7ee7c55f2602ed2c414de[m
+Author: Evendi <86565873+evendi-aja@users.noreply.github.com>
+Date:   Fri Jan 17 20:39:29 2025 +0700
+
+    Delete submissions/evendi-aja/task10/.blank
+
+[33mcommit 400369f0492d17a9ad89048626980ca2621ab1b9[m
+Author: Evendi <86565873+evendi-aja@users.noreply.github.com>
+Date:   Fri Jan 17 20:39:10 2025 +0700
+
+    upload task10
+
+[33mcommit ec0fb59f93bab4559b6966af722ad2fb4e2281fb[m
+Author: Evendi <86565873+evendi-aja@users.noreply.github.com>
+Date:   Fri Jan 17 20:38:50 2025 +0700
+
+    Create task10 folder
+
+[33mcommit 41e34d4799d7255dc1c33649b32b96174d34d47a[m
+Author: Evendi <86565873+evendi-aja@users.noreply.github.com>
+Date:   Fri Jan 17 20:38:14 2025 +0700
+
+    Delete submissions/evendi-aja/task9/.blank
+
+[33mcommit 1262d0750f68edaab029a2d4b88b98c7e268851d[m
+Author: Evendi <86565873+evendi-aja@users.noreply.github.com>
+Date:   Fri Jan 17 20:37:49 2025 +0700
+
+    upload task9
+
+[33mcommit f1fe870013c6165f83667febc4a806b3e74ee3ca[m
+Author: Evendi <86565873+evendi-aja@users.noreply.github.com>
+Date:   Fri Jan 17 20:37:32 2025 +0700
+
+    Create task9 folder
+
+[33mcommit 780b59060aef9f99915f9105c420eabbe7a2193f[m
+Author: Evendi <86565873+evendi-aja@users.noreply.github.com>
+Date:   Fri Jan 17 20:36:49 2025 +0700
+
+    Delete submissions/evendi-aja/task8/.blank
+
+[33mcommit d244261367a664cd00dcb717588545326ed57176[m
+Author: Evendi <86565873+evendi-aja@users.noreply.github.com>
+Date:   Fri Jan 17 20:36:22 2025 +0700
+
+    upload task8
+
+[33mcommit 25fc3e38f1e1b39e30fb2d28a689d49a5ceede6e[m
+Author: Evendi <86565873+evendi-aja@users.noreply.github.com>
+Date:   Fri Jan 17 20:35:58 2025 +0700
+
+    Create task8 folder
+
+[33mcommit b81f0e589b6f6bce0fa1e82b398758f969388c21[m
+Author: Evendi <86565873+evendi-aja@users.noreply.github.com>
+Date:   Fri Jan 17 20:35:34 2025 +0700
+
+    Delete submissions/evendi-aja/task7/.blank
+
+[33mcommit f4f18fa8ddd394d09ce31681632b163280c2bc9f[m
+Author: Evendi <86565873+evendi-aja@users.noreply.github.com>
+Date:   Fri Jan 17 20:35:06 2025 +0700
+
+    upload task7
+
+[33mcommit ab70561874523546b36ad62da0792646a47a5a97[m
+Author: Evendi <86565873+evendi-aja@users.noreply.github.com>
+Date:   Fri Jan 17 20:34:50 2025 +0700
+
+    Create task7 folder
+
+[33mcommit 3a2c1310155d43d887b8efb7e2f68fbe543b2623[m
+Author: Evendi <86565873+evendi-aja@users.noreply.github.com>
+Date:   Fri Jan 17 20:34:11 2025 +0700
+
+    Delete submissions/evendi-aja/task6/.blank
+
+[33mcommit 9cd935cc497236828dcdd1dfa0ab9b94fe6201f0[m
+Author: Evendi <86565873+evendi-aja@users.noreply.github.com>
+Date:   Fri Jan 17 20:33:47 2025 +0700
+
+    upload task6
+
+[33mcommit dcce85ddd774019f8c6be9364e63ad8622ed914f[m
+Author: Evendi <86565873+evendi-aja@users.noreply.github.com>
+Date:   Fri Jan 17 20:33:30 2025 +0700
+
+    Create task6 folder
+
+[33mcommit a8fe278274e3909f8cefdb8524c8a4befcd465f6[m
+Author: Evendi <86565873+evendi-aja@users.noreply.github.com>
+Date:   Fri Jan 17 20:32:58 2025 +0700
+
+    Delete submissions/evendi-aja/task5/.blank
+
+[33mcommit 865c500dfffeebeec3d40b44774b2abef068d594[m
+Author: Evendi <86565873+evendi-aja@users.noreply.github.com>
+Date:   Fri Jan 17 20:31:57 2025 +0700
+
+    upload task5
+
+[33mcommit 692ec09531ceabe451a6bbe851405e5bac91189e[m
+Author: Evendi <86565873+evendi-aja@users.noreply.github.com>
+Date:   Fri Jan 17 20:31:35 2025 +0700
+
+    Create task5 folder
+
+[33mcommit 885cb9791af9135d4f2a4441bb98ea125d76f081[m
+Author: Evendi <86565873+evendi-aja@users.noreply.github.com>
+Date:   Fri Jan 17 20:31:02 2025 +0700
+
+    Delete submissions/evendi-aja/task4/.blank
+
+[33mcommit 594cfb207b47b953acf9ab3576158e4a1d3c1b8a[m
+Author: Evendi <86565873+evendi-aja@users.noreply.github.com>
+Date:   Fri Jan 17 20:30:34 2025 +0700
+
+    upload task4
+
+[33mcommit 2205fc8e234c6f855fac1f519f16866d68b8737a[m
+Author: Evendi <86565873+evendi-aja@users.noreply.github.com>
+Date:   Fri Jan 17 20:30:14 2025 +0700
+
+    Create task4 folder
+
+[33mcommit 98025e1b65114e34f685853f397a276545b26fbf[m
+Author: Evendi <86565873+evendi-aja@users.noreply.github.com>
+Date:   Fri Jan 17 20:29:48 2025 +0700
+
+    Delete submissions/evendi-aja/task3/.blank
+
+[33mcommit aa2f792e723645ea012bd7c201db9993ab88f9e0[m
+Author: Evendi <86565873+evendi-aja@users.noreply.github.com>
+Date:   Fri Jan 17 20:29:11 2025 +0700
+
+    upload task3
+
+[33mcommit 835692b31dfaeac8be2e73a08d9acd26109902ee[m
+Author: Evendi <86565873+evendi-aja@users.noreply.github.com>
+Date:   Fri Jan 17 20:28:48 2025 +0700
+
+    Create task3 folder
+
+[33mcommit 25052b70747d189f1175e87cc71e6fe08e8fb4c8[m
+Author: Evendi <86565873+evendi-aja@users.noreply.github.com>
+Date:   Fri Jan 17 20:28:21 2025 +0700
+
+    Delete submissions/evendi-aja/task2/.blank
+
+[33mcommit b89e0ce94b6dac7c229db72de7e7ead46a13f258[m
+Author: Evendi <86565873+evendi-aja@users.noreply.github.com>
+Date:   Fri Jan 17 20:27:42 2025 +0700
+
+    upload task2
+
+[33mcommit 9e06fe4c12da0b96dda1ada46d6a26e6b5d9a8f1[m
+Author: Evendi <86565873+evendi-aja@users.noreply.github.com>
+Date:   Fri Jan 17 20:27:11 2025 +0700
+
+    Create task2 folder
+
+[33mcommit 2de5831970882ceeb469419afca85a73dd2fad09[m
+Author: Evendi <86565873+evendi-aja@users.noreply.github.com>
+Date:   Fri Jan 17 20:26:21 2025 +0700
+
+    Delete submissions/evendi-aja/task1/.blank
+
+[33mcommit 81e36cf8ff3504276e083c559fb7ce5be4318d69[m
+Author: Evendi <86565873+evendi-aja@users.noreply.github.com>
+Date:   Fri Jan 17 20:25:44 2025 +0700
+
+    upload task1
+
+[33mcommit b7d32942a9ff3a0d9b4080b1797d1f2534335d0f[m
+Author: Evendi <86565873+evendi-aja@users.noreply.github.com>
+Date:   Fri Jan 17 20:23:29 2025 +0700
+
+    Create task1 folder
+
+[33mcommit 36fc883fba21cd65617735a226f1f64ffc28cefb[m
+Author: jerremy262 <jerremy262@gmail.com>
+Date:   Fri Jan 17 12:55:25 2025 +0000
+
+    Complete All Task
+
+[33mcommit fd58b9a2b996880548363f53da9f75454a61550a[m
+Author: Your Name <your.email@example.com>
+Date:   Fri Jan 17 19:13:20 2025 +0700
+
+    Menambahkan folder dan file baru
+
+[33mcommit 924d58c7c5c12a3554ff0b8b7a9d8eb50a3b768a[m
+Author: xMevan <irvaaanfauzi1@gmail.com>
+Date:   Fri Jan 17 18:59:53 2025 +0700
+
+    challenge1 submissions
+
+[33mcommit badb5cd51a24261777040e30472b507e83e5b32e[m
+Author: root <root@vmi2363958.contaboserver.net>
+Date:   Fri Jan 17 05:56:41 2025 -0600
+
+    add submission task
+
+[33mcommit 5ab409fa6b79eb6728f54d5232aee8aae7d1d9b5[m
+Author: xMevan <irvaaanfauzi1@gmail.com>
+Date:   Fri Jan 17 18:54:26 2025 +0700
+
+    challenge1 submissions
+
+[33mcommit c182eebddac5f3ee1e567de26494ff4319c1538b[m
+Merge: 383bd2a3 d85c6cdf
+Author: Gerry Wang <85090540+gerrywang1117@users.noreply.github.com>
+Date:   Fri Jan 17 19:07:58 2025 +0800
+
+    Merge pull request #166 from satriatrader87/main
+    
+    challenge2
+
+[33mcommit 383bd2a328e138969ee912a7954632558bec7165[m
+Merge: 815f3b9c a35cdd4c
+Author: Gerry Wang <85090540+gerrywang1117@users.noreply.github.com>
+Date:   Fri Jan 17 19:06:47 2025 +0800
+
+    Merge pull request #167 from adryan089/main
+    
+    task 3 done!
+
+[33mcommit 815f3b9c7a86d96aa68f8baa69d6906e78502fe4[m
+Merge: ed6879a6 6a2c1b9b
+Author: Gerry Wang <85090540+gerrywang1117@users.noreply.github.com>
+Date:   Fri Jan 17 19:05:59 2025 +0800
+
+    Merge pull request #168 from JayjaxAA/main
+    
+    task 1-5 complete
+
+[33mcommit ed6879a6816280c9c1cb6183e02b02f8ddd17f76[m
+Merge: 62843613 5fbf43bf
+Author: Gerry Wang <85090540+gerrywang1117@users.noreply.github.com>
+Date:   Fri Jan 17 19:05:12 2025 +0800
+
+    Merge pull request #169 from axelinobuna/main
+    
+    update
+
+[33mcommit 5fbf43bf5af895338609002b900655213452acec[m
+Author: axelino <139519880+axelinobuna@users.noreply.github.com>
+Date:   Fri Jan 17 09:23:28 2025 +0000
+
+    update
+
+[33mcommit 6a2c1b9bb2723667829f4284fcf64dffcde354e4[m
+Author: root <root@vmi2399584.contaboserver.net>
+Date:   Fri Jan 17 08:59:09 2025 +0100
+
+    task 1-5 complete
+
+[33mcommit a35cdd4ce0abe014f1102927a04f5700e2de25b2[m
+Author: Adryan Pintratama Amarcha <masmarko117@gmail.com>
+Date:   Fri Jan 17 14:47:30 2025 +0700
+
+    Add files via upload
+
+[33mcommit 62843613d0a55a4a32de43d5a88a0fe03b247bd6[m
+Merge: d0b65410 0c19dec4
+Author: Gerry Wang <85090540+gerrywang1117@users.noreply.github.com>
+Date:   Fri Jan 17 15:20:09 2025 +0800
+
+    Merge pull request #165 from 0xogalabs/main
+    
+    change my description
+
+[33mcommit d85c6cdfdaa9bfaac55b87117691411b43c1ddf6[m
+Author: satriatrader87 <167980755+satriatrader87@users.noreply.github.com>
+Date:   Fri Jan 17 09:50:45 2025 +0700
+
+    Update README.md
+
+[33mcommit 7a891d63ccee862637428713f075350976cdf94c[m
+Author: satriatrader87 <167980755+satriatrader87@users.noreply.github.com>
+Date:   Fri Jan 17 09:46:57 2025 +0700
+
+    Update README.md
+
+[33mcommit 0c19dec494b5c938e389a6dca8582cfcee01d040[m
+Author: 0xogalabs <ndhigura@gmail.com>
+Date:   Fri Jan 17 02:45:29 2025 +0000
+
+    change my description
+
+[33mcommit 118d2e3ca1be7871d5e4442fa461f8606b6125cd[m
+Author: satriatrader87 <167980755+satriatrader87@users.noreply.github.com>
+Date:   Fri Jan 17 09:44:29 2025 +0700
+
+    Update README.md
+
+[33mcommit 5f3ee8ade6300309102e8f99c5c473ffb7f04bc8[m
+Author: satriatrader87 <167980755+satriatrader87@users.noreply.github.com>
+Date:   Fri Jan 17 09:38:00 2025 +0700
+
+    Update README.md
+
+[33mcommit 44c988600d97e67d4ce5c6afa637db46de4ffc98[m
+Author: satriatrader87 <167980755+satriatrader87@users.noreply.github.com>
+Date:   Fri Jan 17 09:36:45 2025 +0700
+
+    challenge2
+    
+    challenge2
+
+[33mcommit 2debecbcff56a91425506ddfb2fb0ac5779513be[m
+Author: satriatrader87 <167980755+satriatrader87@users.noreply.github.com>
+Date:   Fri Jan 17 09:33:20 2025 +0700
+
+    Delete submissions/satriatrader87/challenge2 directory
+
+[33mcommit 1b20bc3af07cbb89ae33fe50351ca51930f870cf[m
+Author: satriatrader87 <167980755+satriatrader87@users.noreply.github.com>
+Date:   Fri Jan 17 09:28:10 2025 +0700
+
+    challenge2
+    
+    challenge2
+
+[33mcommit d0b65410256f699ea71774c26764bb79aac085d5[m
+Merge: 03560bca 878ada20
+Author: Gerry Wang <85090540+gerrywang1117@users.noreply.github.com>
+Date:   Fri Jan 17 10:15:40 2025 +0800
+
+    Merge pull request #159 from 0xibrahimsh/main
+    
+    task4
+
+[33mcommit 03560bca85fff5071c3b1e249d54a179b13ff128[m
+Merge: 7310a4aa a9fca21c
+Author: Gerry Wang <85090540+gerrywang1117@users.noreply.github.com>
+Date:   Fri Jan 17 09:43:08 2025 +0800
+
+    Merge pull request #160 from Paisramdani11/main
+    
+    task 9 & task 10
+
+[33mcommit 7310a4aa570f6d668c652105b725c5be66f7ae8c[m
+Merge: ce454d51 4530f9a5
+Author: Gerry Wang <85090540+gerrywang1117@users.noreply.github.com>
+Date:   Fri Jan 17 09:39:27 2025 +0800
+
+    Merge pull request #161 from XBerryAO/main
+    
+    complete all task 1-10
+
+[33mcommit ce454d515ed848496c99b32f192288b2ca5f386e[m
+Merge: 7bf05f94 e78e0545
+Author: Gerry Wang <85090540+gerrywang1117@users.noreply.github.com>
+Date:   Fri Jan 17 09:35:58 2025 +0800
+
+    Merge pull request #163 from zulvix/main
+    
+    update task1-task10
+
+[33mcommit 7bf05f94e23b7d916f899583e71ac058b4f7a503[m
+Merge: 8ab91c16 bcea79cd
+Author: Gerry Wang <85090540+gerrywang1117@users.noreply.github.com>
+Date:   Fri Jan 17 09:34:09 2025 +0800
+
+    Merge pull request #164 from adryan089/main
+    
+    task 2 done!
+
+[33mcommit bcea79cdb39b9aa0a4e86774b5b84a7535858de1[m
+Author: Adryan Pintratama Amarcha <masmarko117@gmail.com>
+Date:   Fri Jan 17 07:43:52 2025 +0700
+
+    Add files via upload
+
+[33mcommit e78e0545b0fbd6f631176ba9c2805d9ba70bdbeb[m
+Author: zulvix <139524029+zulvix@users.noreply.github.com>
+Date:   Fri Jan 17 06:57:45 2025 +0700
+
+    Update zulvix.md
+
+[33mcommit fd1238350f58b908d9293aba34317cd366fb71e7[m
+Author: zulvix <139524029+zulvix@users.noreply.github.com>
+Date:   Thu Jan 16 23:05:41 2025 +0000
+
+    update task1
+
+[33mcommit b3dee4811a1cc09bc527655804ea1ea09d1a7f61[m
+Author: xMevan <irvaaanfauzi1@gmail.com>
+Date:   Fri Jan 17 03:56:38 2025 +0700
+
+    challenge1 submissions
+
+[33mcommit 4530f9a537fb6bb77d4f47e75af02e96efeec260[m
+Author: XBerryAO <halomegga2@gmail.com>
+Date:   Thu Jan 16 16:25:42 2025 +0000
+
+    complete all task 1-10
+
+[33mcommit a9fca21c16fc516c54da1bcf5cd996e3b884966f[m
+Author: Paisramdani11 <faizrmdni04@gmail.com>
+Date:   Thu Jan 16 22:26:55 2025 +0700
+
+    task 9 & task 10
+
+[33mcommit 878ada207399e64c68100ed8a90ba6b6577fed90[m
+Author: 0xibra <39179617+0xibrahimsh@users.noreply.github.com>
+Date:   Thu Jan 16 21:49:13 2025 +0700
+
+    Delete submissions/0xibrahimsh/task4/sa
+
+[33mcommit 2980a0faa38acce0946f240450f4b84ab06236b5[m
+Author: 0xibra <39179617+0xibrahimsh@users.noreply.github.com>
+Date:   Thu Jan 16 21:48:38 2025 +0700
+
+    Add files via upload
+
+[33mcommit c1cc4e6ded84938279577134397af0b403b25bec[m
+Author: 0xibra <39179617+0xibrahimsh@users.noreply.github.com>
+Date:   Thu Jan 16 21:48:21 2025 +0700
+
+    Create sa
+
+[33mcommit 8ab91c16588e49875d6516888d0c6dd0eaa79144[m
+Merge: 83e78db2 1da24e52
+Author: Gerry Wang <85090540+gerrywang1117@users.noreply.github.com>
+Date:   Thu Jan 16 22:21:32 2025 +0800
+
+    Merge pull request #157 from 0xsapi/main
+    
+    update task1
+
+[33mcommit 83e78db29c7e8f4f86d727fc634724b050206a2f[m
+Merge: 2d524eaa fd2df6ef
+Author: Gerry Wang <85090540+gerrywang1117@users.noreply.github.com>
+Date:   Thu Jan 16 22:20:14 2025 +0800
+
+    Merge pull request #158 from JenigLo/main
+    
+    JP Everyday Was Here
+
+[33mcommit fd2df6ef77bc1bb23bb596b1a437cea920c5a4bd[m
+Author: JenigLo <adejeniglo1@gmail.com>
+Date:   Thu Jan 16 13:23:39 2025 +0000
+
+    Description of changes
+
+[33mcommit 1da24e52422c5891aa17af2b6a50b9ebf430ec37[m
+Author: 0xsapi <bhaigehi@gmail.com>
+Date:   Thu Jan 16 12:21:28 2025 +0000
+
+    update task1
+
+[33mcommit 2d524eaa71a9ffd641c0a43749f85d7dd0f29ffa[m
+Merge: b694c300 74b594c4
+Author: Gerry Wang <85090540+gerrywang1117@users.noreply.github.com>
+Date:   Thu Jan 16 17:54:24 2025 +0800
+
+    Merge pull request #156 from 0xmiwe/main
+    
+    update task 2-10
+
+[33mcommit 74b594c4bcd4d65f93ec5709bde158ad9dad2e9c[m
+Author: 0xmiwe <bhaipemul@gmail.com>
+Date:   Thu Jan 16 09:46:55 2025 +0000
+
+    update task 2-10
+
+[33mcommit b694c30048a38dc89c14733cc338c2290cf0fe68[m
+Merge: 6e1bf371 ef1e6eb0
+Author: Gerry Wang <85090540+gerrywang1117@users.noreply.github.com>
+Date:   Thu Jan 16 16:34:44 2025 +0800
+
+    Merge pull request #155 from tukin22/main
+    
+    lfg
+
+[33mcommit ef1e6eb0d38b53976fdb29f21ece1591e8979449[m
+Author: tukin22 <ceayat3@gmail.com>
+Date:   Thu Jan 16 07:48:04 2025 +0000
+
+    lfg
+
+[33mcommit 6e1bf371d57314e4d0ba189e1361ab2f9d9b214a[m
+Merge: 48eea7c8 025e0e09
+Author: Gerry Wang <85090540+gerrywang1117@users.noreply.github.com>
+Date:   Thu Jan 16 14:24:57 2025 +0800
+
+    Merge pull request #147 from a20131549/main
+    
+    Join
+
+[33mcommit 48eea7c877efc6198e46da47b8e577b45c7ed0b0[m
+Merge: 4d24fa3d 7a51f3fe
+Author: Gerry Wang <85090540+gerrywang1117@users.noreply.github.com>
+Date:   Thu Jan 16 14:23:43 2025 +0800
+
+    Merge pull request #148 from cuitme/cutime
+    
+    Revision completed challeng2
+
+[33mcommit 4d24fa3d08f647aa2f9222d394c7ece1414aea7e[m
+Merge: 8eb67210 c88c14f2
+Author: Gerry Wang <85090540+gerrywang1117@users.noreply.github.com>
+Date:   Thu Jan 16 14:23:00 2025 +0800
+
+    Merge pull request #149 from poelrt/main
+    
+    done
+
+[33mcommit 8eb6721016c7fb1840ea601e5a5c14da3fb7db4a[m
+Merge: 5d8d5229 ec01174f
+Author: Gerry Wang <85090540+gerrywang1117@users.noreply.github.com>
+Date:   Thu Jan 16 14:21:54 2025 +0800
+
+    Merge pull request #150 from dlzvy/main
+    
+    submit  task 8-10
+
+[33mcommit 5d8d522990805fdffdc279f155e317298ab07878[m
+Merge: 50c2c64d 7a344a5d
+Author: Gerry Wang <85090540+gerrywang1117@users.noreply.github.com>
+Date:   Thu Jan 16 14:21:07 2025 +0800
+
+    Merge pull request #151 from XBerryAO/main
+    
+    add submisson read.me
+
+[33mcommit 50c2c64dd7ddf502f1673c663dc4510eb53fc297[m
+Merge: 3ae03eae 624663dc
+Author: Gerry Wang <85090540+gerrywang1117@users.noreply.github.com>
+Date:   Thu Jan 16 14:20:23 2025 +0800
+
+    Merge pull request #152 from JayjaxAA/main
+    
+    submission arweave academy
+
+[33mcommit 3ae03eae3f1366e07f0207d5a2b5d53953aa7c42[m
+Merge: f56864d4 ccb0a133
+Author: Gerry Wang <85090540+gerrywang1117@users.noreply.github.com>
+Date:   Thu Jan 16 14:19:30 2025 +0800
+
+    Merge pull request #153 from irvanfzi/main
+    
+    task submissions
+
+[33mcommit f56864d46be272c7191866513a4b0f0c40e380cf[m
+Merge: 1e60d760 ec99f015
+Author: Gerry Wang <85090540+gerrywang1117@users.noreply.github.com>
+Date:   Thu Jan 16 14:18:20 2025 +0800
+
+    Merge pull request #154 from marukawa3395/main
+    
+    Pull Request from marukawa3395
+
+[33mcommit ec99f01510fda8f9698a44fc51d487baba1bb83b[m
+Author: marukawa <114764465+marukawa3395@users.noreply.github.com>
+Date:   Thu Jan 16 12:42:55 2025 +0700
+
+    Update marukawa3395.md with my informations
+
+[33mcommit ae33e8e5dcf7eb1795662ff429a79815913f5550[m
+Author: marukawa <114764465+marukawa3395@users.noreply.github.com>
+Date:   Thu Jan 16 12:33:07 2025 +0700
+
+    Delete submissions/marukawa3395/task10/.dummy
+
+[33mcommit bda47def38818f841dcf0711de75cd2f9ae39eb4[m
+Author: marukawa <114764465+marukawa3395@users.noreply.github.com>
+Date:   Thu Jan 16 12:32:14 2025 +0700
+
+    submit task10 from @OpenBuildxyz
+
+[33mcommit 61dd232ba63baee5906896cca66391a25bbe2d53[m
+Author: marukawa <114764465+marukawa3395@users.noreply.github.com>
+Date:   Thu Jan 16 12:31:38 2025 +0700
+
+    Create task10 folder
+
+[33mcommit 4b08fef96a502559587bc04f29383955be2155b2[m
+Author: marukawa <114764465+marukawa3395@users.noreply.github.com>
+Date:   Thu Jan 16 12:25:15 2025 +0700
+
+    Delete submissions/marukawa3395/task9/.dummy
+
+[33mcommit c4254efada7d598c0e8c0fb3f79b5ea4d7ea4aff[m
+Author: marukawa <114764465+marukawa3395@users.noreply.github.com>
+Date:   Thu Jan 16 12:24:45 2025 +0700
+
+    submit task9 from @OpenBuildxyz
+
+[33mcommit 2e470d51e68a2f518eab19b28b0dd5847fc1e698[m
+Author: marukawa <114764465+marukawa3395@users.noreply.github.com>
+Date:   Thu Jan 16 12:24:20 2025 +0700
+
+    Create task9 folder
+
+[33mcommit aee2298d94e494c41b03aa50539ee4df01ad33f4[m
+Author: marukawa <114764465+marukawa3395@users.noreply.github.com>
+Date:   Thu Jan 16 12:17:41 2025 +0700
+
+    Delete submissions/marukawa3395/task8/.dummy
+
+[33mcommit 2762e74f7d24649be5a865b324173775b84f21cd[m
+Author: marukawa <114764465+marukawa3395@users.noreply.github.com>
+Date:   Thu Jan 16 12:17:04 2025 +0700
+
+    submit task8 from @OpenBuildxyz
+
+[33mcommit 9958dc10452dfdedb5ae695344ed34cd53f0d083[m
+Author: marukawa <114764465+marukawa3395@users.noreply.github.com>
+Date:   Thu Jan 16 12:16:27 2025 +0700
+
+    Create task8 folder
+
+[33mcommit abfe99eef3e090cfe17e59e5d9082491897cde73[m
+Author: marukawa <114764465+marukawa3395@users.noreply.github.com>
+Date:   Thu Jan 16 12:12:35 2025 +0700
+
+    Delete submissions/marukawa3395/task7/.dummy
+
+[33mcommit 8cf7648786315d832c21d71672d849706dd9166c[m
+Author: marukawa <114764465+marukawa3395@users.noreply.github.com>
+Date:   Thu Jan 16 12:12:02 2025 +0700
+
+    submit task7 from @OpenBuildxyz
+
+[33mcommit d0c1eded7bf11614d721ded4a2ff3542e4f965d4[m
+Author: marukawa <114764465+marukawa3395@users.noreply.github.com>
+Date:   Thu Jan 16 12:11:35 2025 +0700
+
+    Create task7 folder
+
+[33mcommit 49fe3617f4995fc38e60bad0b20b26e0adddc0a0[m
+Author: marukawa <114764465+marukawa3395@users.noreply.github.com>
+Date:   Thu Jan 16 12:03:39 2025 +0700
+
+    Delete submissions/marukawa3395/task6/.dummy
+
+[33mcommit 3216b805852837917c1819b158cd4a9303f173e2[m
+Author: marukawa <114764465+marukawa3395@users.noreply.github.com>
+Date:   Thu Jan 16 12:02:50 2025 +0700
+
+    submit task6 from @OpenBuildxyz
+
+[33mcommit a6f0838289a0afe8d0fc61a768e54c83217fc9a2[m
+Author: marukawa <114764465+marukawa3395@users.noreply.github.com>
+Date:   Thu Jan 16 12:02:13 2025 +0700
+
+    Create task6 folder
+
+[33mcommit 36400c10cc21941d5aa4a3e918ff7f14c7740d5d[m
+Author: marukawa <114764465+marukawa3395@users.noreply.github.com>
+Date:   Thu Jan 16 11:56:00 2025 +0700
+
+    Delete submissions/marukawa3395/task5/.dummy
+
+[33mcommit 0f3e21df333a8164578adf90fe38160d1f8e9045[m
+Author: marukawa <114764465+marukawa3395@users.noreply.github.com>
+Date:   Thu Jan 16 11:55:21 2025 +0700
+
+    submit task5 from @OpenBuildxyz
+
+[33mcommit a5dcd391b077c63c418d29093d468b4f15acaabf[m
+Author: marukawa <114764465+marukawa3395@users.noreply.github.com>
+Date:   Thu Jan 16 11:54:58 2025 +0700
+
+    Create task5 folder
+
+[33mcommit 1d488613c1f2c152b624254da69244ad265a4176[m
+Author: marukawa <114764465+marukawa3395@users.noreply.github.com>
+Date:   Thu Jan 16 11:50:30 2025 +0700
+
+    Delete submissions/marukawa3395/task4/.dummy
+
+[33mcommit 3ea923859b904eb698df02965cab904336b37436[m
+Author: marukawa <114764465+marukawa3395@users.noreply.github.com>
+Date:   Thu Jan 16 11:49:55 2025 +0700
+
+    submit task4 from @OpenBuildxyz
+
+[33mcommit 09dfb5a44899555b58ad5c0f4db0005e10818d63[m
+Author: marukawa <114764465+marukawa3395@users.noreply.github.com>
+Date:   Thu Jan 16 11:48:39 2025 +0700
+
+    Create .dummy
+
+[33mcommit 9ce0174e5f10805f11c9e9213c3030a1ce5c8502[m
+Author: marukawa <114764465+marukawa3395@users.noreply.github.com>
+Date:   Thu Jan 16 11:40:29 2025 +0700
+
+    Delete submissions/marukawa3395/task3/.keep
+
+[33mcommit f84774a53f97b57e567cad66ba9abe6032572b07[m
+Author: marukawa <114764465+marukawa3395@users.noreply.github.com>
+Date:   Thu Jan 16 11:39:55 2025 +0700
+
+    submit task3 from @OpenBuildxyz
+
+[33mcommit 3b3351ae4f6929a1f3f2abdf8d6a032aac516947[m
+Author: marukawa <114764465+marukawa3395@users.noreply.github.com>
+Date:   Thu Jan 16 11:39:10 2025 +0700
+
+    Create task3 folder
+
+[33mcommit c950fe5db4d79754a333d658433a3ed8f941883f[m
+Author: marukawa <114764465+marukawa3395@users.noreply.github.com>
+Date:   Thu Jan 16 11:33:03 2025 +0700
+
+    Delete submissions/marukawa3395/task2/.keep
+
+[33mcommit 10582e97501c5ca9550e5ec68cd1a8d28215eaaf[m
+Author: marukawa <114764465+marukawa3395@users.noreply.github.com>
+Date:   Thu Jan 16 11:32:19 2025 +0700
+
+    submit tas2 from @OpenBuildxyz
+
+[33mcommit eba930e609a4ab79245c5552cffefb3fd0c17935[m
+Author: marukawa <114764465+marukawa3395@users.noreply.github.com>
+Date:   Thu Jan 16 11:26:24 2025 +0700
+
+    Create folder task2
+
+[33mcommit 28ac4bd741e3f2a0dfe7e9a17e42a70c5475db1e[m
+Author: marukawa <114764465+marukawa3395@users.noreply.github.com>
+Date:   Thu Jan 16 11:25:04 2025 +0700
+
+    Delete submissions/marukawa3395/task1/1.jpg (junk files)
+
+[33mcommit 8a0a9765c9b7467fe43f0867307c56be20506327[m
+Author: marukawa <114764465+marukawa3395@users.noreply.github.com>
+Date:   Thu Jan 16 11:23:53 2025 +0700
+
+    Submit task1 from @OpenBuildxyz
+
+[33mcommit aef4378f851f43fc146633f55a641f9029574e6e[m
+Author: marukawa <114764465+marukawa3395@users.noreply.github.com>
+Date:   Thu Jan 16 10:38:52 2025 +0700
+
+    copy Template.md with my github username
+
+[33mcommit 21a61ae298a96c44dd1f1d8c253196969d5218e5[m
+Author: marukawa <114764465+marukawa3395@users.noreply.github.com>
+Date:   Thu Jan 16 10:34:13 2025 +0700
+
+    Delete submissions/marukawa3395/task2/read.me
+
+[33mcommit 23d0313f1d59ef9faef427efb275445a7aa3d1ef[m
+Author: marukawa <114764465+marukawa3395@users.noreply.github.com>
+Date:   Thu Jan 16 10:33:44 2025 +0700
+
+    Delete submissions/marukawa3395/task1/.kepp
+
+[33mcommit 48591cb3b655f297896c1263a0b57e68fa92eb36[m
+Author: marukawa <114764465+marukawa3395@users.noreply.github.com>
+Date:   Thu Jan 16 10:31:30 2025 +0700
+
+    Try create read.me
+
+[33mcommit 2e41bfbd4fd05f2bf650a928e7b63c1e1ea53924[m
+Author: marukawa <114764465+marukawa3395@users.noreply.github.com>
+Date:   Thu Jan 16 10:30:07 2025 +0700
+
+    try upload 1 random image
+
+[33mcommit 8a5317f8fb4b28c1365023a0ccb8cd0e3e78cdd0[m
+Author: marukawa <114764465+marukawa3395@users.noreply.github.com>
+Date:   Thu Jan 16 10:18:41 2025 +0700
+
+    Create folder with my github username for task1
+
+[33mcommit ccb0a133ddf9f716a5fc34295034f969c45deef2[m
+Author: Irvan Fauzi <irvanfzi@icloud.com>
+Date:   Thu Jan 16 05:23:08 2025 +0700
+
+    Delete submissions/irvanfzi/task9/Screenshot_16-1-2025_51325_openbuild.xyz.jpeg:Zone.Identifier
+
+[33mcommit b41310597407ace505b34d6e4551b2fdf5cfa526[m
+Author: Irvan Fauzi <irvanfzi@icloud.com>
+Date:   Thu Jan 16 05:22:51 2025 +0700
+
+    Delete submissions/irvanfzi/task8/Screenshot_16-1-2025_5125_openbuild.xyz (1).jpeg:Zone.Identifier
+
+[33mcommit f38c36ad10bd12b7053333e35944d372a37e9357[m
+Author: Irvan Fauzi <irvanfzi@icloud.com>
+Date:   Thu Jan 16 05:22:36 2025 +0700
+
+    Delete submissions/irvanfzi/task7/Screenshot_16-1-2025_51018_openbuild.xyz.jpeg:Zone.Identifier
+
+[33mcommit 2fc3401486e95b4c8aff130e1748a8646a7165a0[m
+Author: Irvan Fauzi <irvanfzi@icloud.com>
+Date:   Thu Jan 16 05:22:23 2025 +0700
+
+    Delete submissions/irvanfzi/task6/Screenshot_16-1-2025_5836_openbuild.xyz.jpeg:Zone.Identifier
+
+[33mcommit 492874f7a7d3e086e092da2ab9666344ca85f38b[m
+Author: Irvan Fauzi <irvanfzi@icloud.com>
+Date:   Thu Jan 16 05:22:09 2025 +0700
+
+    Delete submissions/irvanfzi/task5/Screenshot_16-1-2025_5646_openbuild.xyz.jpeg:Zone.Identifier
+
+[33mcommit dc81022a10b7eaa64970922caf053d84577f0b83[m
+Author: Irvan Fauzi <irvanfzi@icloud.com>
+Date:   Thu Jan 16 05:21:47 2025 +0700
+
+    Delete submissions/irvanfzi/task4/Screenshot_16-1-2025_42914_openbuild.xyz.jpeg:Zone.Identifier
+
+[33mcommit da5b8d85d35fceefba13be8d10df81369632ef5e[m
+Author: Irvan Fauzi <irvanfzi@icloud.com>
+Date:   Thu Jan 16 05:21:31 2025 +0700
+
+    Delete submissions/irvanfzi/task3/Screenshot_16-1-2025_42914_openbuild.xyz.jpeg:Zone.Identifier
+
+[33mcommit fdf2a0d07b1edb3c13a18cd8b09134903836fcbb[m
+Author: Irvan Fauzi <irvanfzi@icloud.com>
+Date:   Thu Jan 16 05:20:53 2025 +0700
+
+    Delete submissions/irvanfzi/task10/Screenshot_16-1-2025_51438_openbuild.xyz.jpeg:Zone.Identifier
+
+[33mcommit 6317a784efcb916a50039e128c2d932fd9bf8427[m
+Author: Irvan Fauzi <irvanfzi@icloud.com>
+Date:   Thu Jan 16 05:20:14 2025 +0700
+
+    Delete submissions/irvanfzi/Recycle Bin - Shortcut.lnk
+
+[33mcommit d5d5d1d97f4c9066dc2c393202bfd2ce1fc5105a[m
+Author: irvanfzi <irvanfzi@icloud.com>
+Date:   Thu Jan 16 05:15:54 2025 +0700
+
+    task submissions
+
+[33mcommit 525d70d27c0d33400662808878eadb9b94f4a5bf[m
+Author: irvanfzi <irvanfzi@icloud.com>
+Date:   Thu Jan 16 04:17:30 2025 +0700
+
+    task submissions
+
+[33mcommit 624663dce7ff650e018eb705d5ff1912a60522fb[m
+Author: root <root@vmi2399584.contaboserver.net>
+Date:   Wed Jan 15 20:24:02 2025 +0100
+
+    submission arweave academy
+
+[33mcommit 7a344a5d5ace59fd5433173fad799d76e2afbeb1[m
+Author: XBerryAO <halomegga2@gmail.com>
+Date:   Wed Jan 15 18:58:36 2025 +0000
+
+    add submisson read.me
+
+[33mcommit ec01174f8bcb44ed11f454800fbb5a7d59d2314b[m
+Author: dlzvy <brianjovandi@gmail.com>
+Date:   Wed Jan 15 18:26:43 2025 +0000
+
+    submit  task 8-10
+
+[33mcommit c88c14f2bb172e412d99ddf5ef81f959a4b68c3a[m
+Author: poelrt <vetoaser1@gmail.com>
+Date:   Wed Jan 15 16:48:04 2025 +0000
+
+    done
+
+[33mcommit 7a51f3fe39a9c057c81a6aff337a1773236ac3fe[m
+Merge: dde9767f 1e60d760
+Author: cuitme <163123353+cuitme@users.noreply.github.com>
+Date:   Wed Jan 15 19:00:35 2025 +0700
+
+    Merge branch 'ArweaveOasis:main' into main
+
+[33mcommit 025e0e09ed177dd33024f9bc83aa88690a71ab00[m
+Author: nasai <20131549@qq.com>
+Date:   Wed Jan 15 17:47:48 2025 +0800
+
+    update github account
+
+[33mcommit cb7c30dba98fbeb5d1f7b1fd0039b8dc6e613dbf[m
+Author: nasai <20131549@qq.com>
+Date:   Wed Jan 15 17:26:57 2025 +0800
+
+    Join
+
+[33mcommit 1e60d760803174a1a65b2257aaa2b46e1ba5e4a5[m
+Merge: c3fc9087 1034f15b
+Author: Gerry Wang <85090540+gerrywang1117@users.noreply.github.com>
+Date:   Wed Jan 15 14:50:52 2025 +0800
+
+    Merge pull request #146 from seachyy/main
+    
+    all tasks
+
+[33mcommit c3fc9087ed0b4823ab53915a08999d6a84de7629[m
+Merge: 8d380e01 7a3a581b
+Author: Gerry Wang <85090540+gerrywang1117@users.noreply.github.com>
+Date:   Wed Jan 15 11:26:14 2025 +0800
+
+    Merge pull request #145 from jesenra/main
+    
+    Submission Submit
+
+[33mcommit 8d380e01d126a36a4cca870eecdec63dc54c8e54[m
+Merge: af29024e 2d1be40e
+Author: Gerry Wang <85090540+gerrywang1117@users.noreply.github.com>
+Date:   Wed Jan 15 11:25:14 2025 +0800
+
+    Merge pull request #143 from rafly-dhika/main
+    
+    complete all tasks
+
+[33mcommit af29024e8211391f4ea369c9abf19bca94ad4f00[m
+Merge: d30f9ed2 79d1a6f2
+Author: Gerry Wang <85090540+gerrywang1117@users.noreply.github.com>
+Date:   Wed Jan 15 11:23:47 2025 +0800
+
+    Merge pull request #144 from zarichibuck/main
+    
+    Add files via upload
+
+[33mcommit d30f9ed2527364271c20d3049afdcdf3a5de5151[m
+Merge: 1ae05caa b1cc96b6
+Author: Gerry Wang <85090540+gerrywang1117@users.noreply.github.com>
+Date:   Wed Jan 15 11:08:33 2025 +0800
+
+    Merge pull request #142 from muhhmyd/main
+    
+    Done
+
+[33mcommit b1cc96b68bf63d8e20d780de31e97e97ecc83d74[m
+Author: muhhmyd <159976584+muhhmyd@users.noreply.github.com>
+Date:   Wed Jan 15 09:56:41 2025 +0700
+
+    Complete all Tasks
+
+[33mcommit 9c2660424a9a659990f28818e8bc61b879c4b1f4[m
+Author: muhhmyd <159976584+muhhmyd@users.noreply.github.com>
+Date:   Wed Jan 15 09:56:12 2025 +0700
+
+    Delete submissions/0xSeazyn directory
+
+[33mcommit 1ae05caaed1eb32e0ab38d55c4cbec842839b057[m
+Merge: 7ddf761c 090b5d35
+Author: Gerry Wang <85090540+gerrywang1117@users.noreply.github.com>
+Date:   Wed Jan 15 10:19:39 2025 +0800
+
+    Merge pull request #137 from Paisramdani11/main
+    
+    task1-task8
+
+[33mcommit 7ddf761ce12bab1488b2dcb4a1560778750de123[m
+Merge: c0c68e49 7edc16fc
+Author: Gerry Wang <85090540+gerrywang1117@users.noreply.github.com>
+Date:   Wed Jan 15 10:18:18 2025 +0800
+
+    Merge pull request #138 from gowor789/main
+    
+    sumbit all task
+
+[33mcommit c0c68e496d03f5dd64bf7d68574c245181c09e22[m
+Merge: a49016ae ef0777d5
+Author: Gerry Wang <85090540+gerrywang1117@users.noreply.github.com>
+Date:   Wed Jan 15 10:03:25 2025 +0800
+
+    Merge pull request #139 from 0xibrahimsh/main
+    
+    task3
+
+[33mcommit a49016aeb62cb5817e681772ae1de73504db3039[m
+Merge: 2861cec2 9ca8f0ed
+Author: Gerry Wang <85090540+gerrywang1117@users.noreply.github.com>
+Date:   Wed Jan 15 10:02:54 2025 +0800
+
+    Merge pull request #140 from rdsyy/main
+    
+    Add Submission
+
+[33mcommit 2861cec2e47b654e50f68937548a480452cc7c07[m
+Merge: 63d6997b a6b3229e
+Author: Gerry Wang <85090540+gerrywang1117@users.noreply.github.com>
+Date:   Wed Jan 15 09:58:55 2025 +0800
+
+    Merge pull request #141 from Adebrave/main
+    
+    Akulah sang prabu
+
+[33mcommit a6b3229ef6cebff8414fe78ee06893ac5d83007e[m
+Author: Adebrave <kotapontianak324@gmail.com>
+Date:   Tue Jan 14 15:35:05 2025 +0000
+
+    Description of changes
+
+[33mcommit 9ca8f0ed51b2a25056b8e055e00c3bcd89ed34be[m
+Author: rdsyy <channamajapahit@gmail.com>
+Date:   Tue Jan 14 15:31:47 2025 +0000
+
+    Add Submission
+
+[33mcommit dde9767f63b50885ff006721afc1bfb49d10b4e5[m
+Merge: 40877488 63d6997b
+Author: cuitme <163123353+cuitme@users.noreply.github.com>
+Date:   Tue Jan 14 22:20:56 2025 +0700
+
+    Merge branch 'ArweaveOasis:main' into main
+
+[33mcommit ef0777d584b49a7e80322f64cf1292d62ecbb7e6[m
+Author: 0xibra <39179617+0xibrahimsh@users.noreply.github.com>
+Date:   Tue Jan 14 22:19:16 2025 +0700
+
+    Delete submissions/0xibrahimsh/task3/h
+
+[33mcommit 3553a7881f08dfe09da4aca5030e268c986e41e9[m
+Author: 0xibra <39179617+0xibrahimsh@users.noreply.github.com>
+Date:   Tue Jan 14 22:18:49 2025 +0700
+
+    Add files via upload
+
+[33mcommit 8ddea876653f7349a3d2598f7bff07ebdd099fb9[m
+Author: 0xibra <39179617+0xibrahimsh@users.noreply.github.com>
+Date:   Tue Jan 14 22:18:24 2025 +0700
+
+    Create h
+
+[33mcommit 7edc16fcfb1218025b936344465099baada501f8[m
+Author: gowor789 <nessaduleo@gmail.com>
+Date:   Tue Jan 14 14:47:40 2025 +0000
+
+    sumbit all task
+
+[33mcommit 090b5d35544fd5408457ad09f16602f282c35584[m
+Author: Paisramdani11 <faizrmdni04@gmail.com>
+Date:   Tue Jan 14 21:22:49 2025 +0700
+
+    task1-task10
+
+[33mcommit 63d6997b7f381340f5b91b864d5c82cee374d931[m
+Merge: f3c696ba 217ea07e
+Author: Gerry Wang <85090540+gerrywang1117@users.noreply.github.com>
+Date:   Tue Jan 14 19:55:30 2025 +0800
+
+    Merge pull request #136 from Paisramdani11/main
+    
+    Paisramdani11 submission
+
+[33mcommit 217ea07e52b4e2fe89e168335faf1e223dfab60d[m
+Author: Gerry Wang <85090540+gerrywang1117@users.noreply.github.com>
+Date:   Tue Jan 14 19:54:06 2025 +0800
+
+    Update template.md
+
+[33mcommit 408774881950f0b8ebcb5dfa3f9e3a2827c8b50c[m
+Author: cuitme <163123353+cuitme@users.noreply.github.com>
+Date:   Tue Jan 14 10:10:01 2025 +0000
+
+    change file to large and revisi readme
+
+[33mcommit 44e6aa55ae0d4a95dd14e2fed7493ae2521e4684[m
+Merge: e0baa175 f3c696ba
+Author: cuitme <163123353+cuitme@users.noreply.github.com>
+Date:   Tue Jan 14 16:24:22 2025 +0700
+
+    Merge branch 'ArweaveOasis:main' into main
+
+[33mcommit e0baa175aa2a0c5711ed16f50427ffa0cf1b5c94[m
+Author: Gusma <agussulistionoa0@gmail.com>
+Date:   Tue Jan 14 16:23:29 2025 +0700
+
+    add readme md
+
+[33mcommit f3c696ba8968ccdd31474fccfb02cf9e40a04f7d[m
+Author: Gerry Wang <85090540+gerrywang1117@users.noreply.github.com>
+Date:   Tue Jan 14 16:50:21 2025 +0800
+
+    Delete .github/workflows directory
+
+[33mcommit a409b7cfa5c2518176c07176ce748388908ae00b[m
+Author: Gusma <agussulistionoa0@gmail.com>
+Date:   Tue Jan 14 15:44:17 2025 +0700
+
+    chalenge 2 complete 1
+
+[33mcommit 234094ed4b6948d841898f921bad872275ef81c1[m
+Author: Gerry Wang <85090540+gerrywang1117@users.noreply.github.com>
+Date:   Tue Jan 14 16:43:53 2025 +0800
+
+    Create main.yml
+
+[33mcommit 3d3045002ba5bb1bb1aa7fb964540bc6acb57152[m
+Author: Gerry Wang <85090540+gerrywang1117@users.noreply.github.com>
+Date:   Tue Jan 14 16:42:47 2025 +0800
+
+    Delete .github/workflows/main.yml
+
+[33mcommit bf9dff12b6eb1c627ca400dfef7e8a00d6e714be[m
+Author: Gerry Wang <85090540+gerrywang1117@users.noreply.github.com>
+Date:   Tue Jan 14 16:35:27 2025 +0800
+
+    Create main.yml
+
+[33mcommit 8c2de35fbf45c33f06ec2fdc64dd81733e33773b[m
+Merge: 50d482ee fe05b841
+Author: Gerry Wang <85090540+gerrywang1117@users.noreply.github.com>
+Date:   Tue Jan 14 14:06:25 2025 +0800
+
+    Merge pull request #106 from aisyahpratama/main
+    
+    Aisprata
+
+[33mcommit 50d482ee7b21ad20620bcaa0a8708e95c934c531[m
+Merge: 70a776e2 a640a93b
+Author: Gerry Wang <85090540+gerrywang1117@users.noreply.github.com>
+Date:   Tue Jan 14 14:00:20 2025 +0800
+
+    Merge pull request #134 from intres55/main
+    
+    add all task
+
+[33mcommit a640a93bb810ea42f5fe496ab594a1b6e76e803a[m
+Author: intres55 intl <ahulseil43@gmail.com>
+Date:   Tue Jan 14 05:29:23 2025 +0000
+
+    add all task
+
+[33mcommit 7a3a581b7c0f66bc90f407ef86e97feb7a7ab1bd[m
+Author: jesenra <jesenraranti@gmail.com>
+Date:   Tue Jan 14 12:10:55 2025 +0700
+
+    Add files via upload
+
+[33mcommit 79d1a6f2d95832137897414b18d2c08a9ec70356[m
+Author: zarichibuck <zarichililiana@gmail.com>
+Date:   Tue Jan 14 12:10:40 2025 +0700
+
+    Add files via upload
+
+[33mcommit 2d1be40edf3e1306e2a143d34f029d1f5110ae29[m
+Author: rafly-dhika <r.andhika800@gmail.com>
+Date:   Tue Jan 14 12:06:51 2025 +0700
+
+    Add files via upload
+
+[33mcommit 1034f15b83f02605e5fbf2ebda438e581a35b68a[m
+Author: seachyy <2seachy0@gmail.com>
+Date:   Tue Jan 14 11:43:25 2025 +0700
+
+    all tasks
+
+[33mcommit 88b2c3e9a87050f3b1907e1ec5779ef3b501debc[m
+Author: seachyy <2seachy0@gmail.com>
+Date:   Tue Jan 14 10:32:00 2025 +0700
+
+    Add files via upload
+
+[33mcommit 5c1c8fcb38046245ff282b0de99757c12a498ee7[m
+Merge: 0fb51aa6 70a776e2
+Author: Awaludin Isnain <159976584+muhhmyd@users.noreply.github.com>
+Date:   Tue Jan 14 09:53:33 2025 +0700
+
+    Merge branch 'ArweaveOasis:main' into main
+
+[33mcommit 70a776e2bc16c36c759166ceefc58cbfdb0f8a6a[m
+Merge: 2f3a6fef b4318c3e
+Author: Gerry Wang <85090540+gerrywang1117@users.noreply.github.com>
+Date:   Tue Jan 14 10:16:57 2025 +0800
+
+    Merge pull request #133 from asriqul/main
+    
+    Challenge 3 Submission
+
+[33mcommit 0fb51aa6f99c04a8f896d2d3d458e12ca51eb55e[m
+Author: Awaludin Isnain <159976584+muhhmyd@users.noreply.github.com>
+Date:   Tue Jan 14 09:14:01 2025 +0700
+
+    Complete all tasks
+
+[33mcommit b4318c3eea512d8051ffcad3c337ac82e83b46a4[m
+Merge: 284884f2 85dd5c69
+Author: asriqul <didipbnc11@gmail.com>
+Date:   Tue Jan 14 08:58:48 2025 +0700
+
+    Challenge 3 Submission
+
+[33mcommit a7c57954db5e7e72e5ba19f034c8cfa471a93032[m
+Author: Awaludin Isnain <159976584+muhhmyd@users.noreply.github.com>
+Date:   Tue Jan 14 08:48:30 2025 +0700
+
+    Add files via upload
+    
+    Creating submission folder and Introduction
+
+[33mcommit 284884f25668fb08098506ad7848898c08738ef0[m
+Author: asriqul <didipbnc11@gmail.com>
+Date:   Tue Jan 14 08:48:28 2025 +0700
+
+    Challenge 3 Submission
+
+[33mcommit fe05b841b0957febfc4bb1a9e281155a66f8e62d[m
+Author: aisyahpratama <154869620+aisyahpratama@users.noreply.github.com>
+Date:   Tue Jan 14 08:37:00 2025 +0700
+
+    Update README.md
+
+[33mcommit 2f3a6fef28549050d90b05d57f951f2b14907eb0[m
+Merge: b21484e3 cc671c15
+Author: Gerry Wang <85090540+gerrywang1117@users.noreply.github.com>
+Date:   Tue Jan 14 09:06:12 2025 +0800
+
+    Merge pull request #130 from ethpeler/main
+    
+    Add untracked files in submissions/ethpeler/
+
+[33mcommit b21484e36c6150f28f733df0afc160a510596e7c[m
+Merge: cea32ca7 85dd5c69
+Author: Gerry Wang <85090540+gerrywang1117@users.noreply.github.com>
+Date:   Tue Jan 14 08:57:58 2025 +0800
+
+    Merge pull request #131 from asriqul/main
+    
+    Challenge 2 Submission
+
+[33mcommit 85dd5c692f3945bce596d7528ffdb7d6e52653fc[m
+Author: asriqul <46532231+asriqul@users.noreply.github.com>
+Date:   Tue Jan 14 03:53:14 2025 +0700
+
+    Update README.md
+
+[33mcommit 00c7a1ec57f734d0ea852d9d6ac8f03e224f9cef[m
+Author: asriqul <didipbnc11@gmail.com>
+Date:   Tue Jan 14 03:52:14 2025 +0700
+
+    Challenge 2 Submission
+
+[33mcommit cc671c15f96183ae568098a231061b0b24eaaa87[m
+Author: ethpeler <bangdulex78@gmail.com>
+Date:   Mon Jan 13 17:59:00 2025 +0000
+
+    Add untracked files in submissions/ethpeler/
+
+[33mcommit d864db5fd5645a3468ab08fd979f944b2528f54b[m
+Author: Paisramdani11 <faizrmdni04@gmail.com>
+Date:   Mon Jan 13 20:28:14 2025 +0700
+
+    remove edited in template.md
+
+[33mcommit d2a5771f20e34c3f32f24bf20618bc7420309c75[m
+Merge: 532d5ee8 53cb542f
+Author: Paisramdani11 <faizrmdni04@gmail.com>
+Date:   Mon Jan 13 19:32:20 2025 +0700
+
+    Resolve merge conflict in Paisramdani11.md
+
+[33mcommit 532d5ee8cd29274962a6f6455d12bd8e72820a7c[m
+Author: Paisramdani11 <faizrmdni04@gmail.com>
+Date:   Mon Jan 13 19:23:46 2025 +0700
+
+    Add personal registration file for GitHub registration
+
+[33mcommit cea32ca7a75441c3f57369cc5a1f68a08747318b[m
+Merge: bb82b1bd c749a1c2
+Author: Gerry Wang <85090540+gerrywang1117@users.noreply.github.com>
+Date:   Mon Jan 13 18:29:23 2025 +0800
+
+    Merge pull request #127 from dlzvy/main
+    
+    add task 5-7
+
+[33mcommit c749a1c20503fd65c6ae6c67b833883180a15d82[m
+Author: dlzvy <brianjovandi@gmail.com>
+Date:   Mon Jan 13 09:44:36 2025 +0000
+
+    add task 5-7
+
+[33mcommit bb82b1bd8b4ef8499944fb8411903d8f006d06f6[m
+Merge: 5217eed0 9ccf67a9
+Author: Gerry Wang <85090540+gerrywang1117@users.noreply.github.com>
+Date:   Mon Jan 13 17:38:12 2025 +0800
+
+    Merge pull request #71 from xMevan/main
+    
+    challenge2 submissions
+
+[33mcommit 5217eed03ae64c70b0866ad16cf43834ed7166f6[m
+Merge: dd80a2f6 e16da1b3
+Author: Gerry Wang <85090540+gerrywang1117@users.noreply.github.com>
+Date:   Mon Jan 13 17:36:58 2025 +0800
+
+    Merge pull request #124 from lwhile/main
+    
+    Add tasks
+
+[33mcommit dd80a2f60ed177298fcacebb3f2070d7390770c8[m
+Merge: f9a85844 3415379a
+Author: Gerry Wang <85090540+gerrywang1117@users.noreply.github.com>
+Date:   Mon Jan 13 17:35:32 2025 +0800
+
+    Merge pull request #125 from dlzvy/main
+    
+    submittask4
+
+[33mcommit f9a858440f164ad3ed4802cbca7d7118f9746d78[m
+Merge: e1fe61bf 165b9aef
+Author: Gerry Wang <85090540+gerrywang1117@users.noreply.github.com>
+Date:   Mon Jan 13 17:34:40 2025 +0800
+
+    Merge pull request #126 from cuitme/main
+    
+    challenge 1 complete
+
+[33mcommit 165b9aef53ebd44b03b6de5ee998c5293f5eb919[m
+Author: Gusma <agussulistionoa0@gmail.com>
+Date:   Mon Jan 13 16:04:27 2025 +0700
+
+    challenge 1 complete
+
+[33mcommit 3415379a4fdad6997f8375519973bb60e1c6bc07[m
+Author: dlzvy <brianjovandi@gmail.com>
+Date:   Mon Jan 13 08:41:36 2025 +0000
+
+    submittask4
+
+[33mcommit e16da1b355deeb86410552123c773bccdf9083a3[m
+Merge: 21d56a00 e1fe61bf
+Author: lwh <lwhile521@gmail.com>
+Date:   Mon Jan 13 14:37:45 2025 +0800
+
+    Merge branch 'ArweaveOasis:main' into main
+
+[33mcommit 21d56a000efea0ec15778b81fe021cfd65002f6f[m
+Author: lwhile <lwhile521@gmail.com>
+Date:   Mon Jan 13 14:36:50 2025 +0800
+
+    add tasks
+
+[33mcommit e1fe61bf12ef2422e59c4c581917ed56d38c1ae2[m
+Merge: 1ba691e4 aa251166
+Author: Gerry Wang <85090540+gerrywang1117@users.noreply.github.com>
+Date:   Mon Jan 13 10:29:33 2025 +0800
+
+    Merge pull request #116 from cuitme/cuitme
+    
+    all task complete
+
+[33mcommit aa2511667b47092ef06efb9c71837fb3016bdba7[m
+Merge: 7c317466 1ba691e4
+Author: cuitme <163123353+cuitme@users.noreply.github.com>
+Date:   Mon Jan 13 09:25:23 2025 +0700
+
+    Merge branch 'ArweaveOasis:main' into cuitme
+
+[33mcommit 1ba691e456ca9cbd6407454e67cb906c49e835c4[m
+Merge: c42b507c 90974c77
+Author: Gerry Wang <85090540+gerrywang1117@users.noreply.github.com>
+Date:   Mon Jan 13 10:17:16 2025 +0800
+
+    Merge pull request #117 from zanuartri/main
+    
+    submission task1-task10 zanuartri
+
+[33mcommit c42b507c411f14cc11faf8dd4debc5581b21ddb2[m
+Merge: 2430d010 c84197ce
+Author: Gerry Wang <85090540+gerrywang1117@users.noreply.github.com>
+Date:   Mon Jan 13 10:15:08 2025 +0800
+
+    Merge pull request #120 from 0xmiwe/main
+    
+    mydescription
+
+[33mcommit 2430d01013176ee4715d3e87fb717304f3f72229[m
+Merge: 816737bc b7027874
+Author: Gerry Wang <85090540+gerrywang1117@users.noreply.github.com>
+Date:   Mon Jan 13 10:14:50 2025 +0800
+
+    Merge pull request #121 from khinzib/submit-all-taks
+    
+    Submit all taks
+
+[33mcommit 816737bc56c715b98d84ea02a5ee308ea472fc93[m
+Merge: ef794456 17f78370
+Author: Gerry Wang <85090540+gerrywang1117@users.noreply.github.com>
+Date:   Mon Jan 13 10:13:36 2025 +0800
+
+    Merge pull request #122 from satriatrader87/main
+    
+    submissions challenge
+
+[33mcommit ef794456c21834b051fc6767517f1280748462a5[m
+Merge: 2a3221ba f4c716cc
+Author: Gerry Wang <85090540+gerrywang1117@users.noreply.github.com>
+Date:   Mon Jan 13 10:12:59 2025 +0800
+
+    Merge pull request #123 from Jangbeton/alltask
+    
+    Alltask
+
+[33mcommit f4c716cce335c7d346e35f495160d2316c9f74f3[m
+Author: jangbeton <ujangbeton007@gmail.com>
+Date:   Mon Jan 13 02:38:36 2025 +0700
+
+    jangbeton
+
+[33mcommit 17f78370b7b579aaa4127161a9dbdc43993e62ff[m
+Author: satriatrader87 <167980755+satriatrader87@users.noreply.github.com>
+Date:   Mon Jan 13 02:11:07 2025 +0700
+
+    submissions challenge1
+
+[33mcommit 0e8624ba347cd7486ec540e3033b283caae17b63[m
+Author: jangbeton <ujangbeton007@gmail.com>
+Date:   Mon Jan 13 01:14:07 2025 +0700
+
+    jangbeton
+
+[33mcommit b7027874ce2c138e64cda7835efea0a318e9d04c[m
+Author: khinzib <boyeinstein008@gmail.com>
+Date:   Mon Jan 13 00:48:22 2025 +0700
+
+    khinzib
+
+[33mcommit 0613a14e81303e50da38da12549e316d1a7f6c59[m
+Author: khinzib <boyeinstein008@gmail.com>
+Date:   Mon Jan 13 00:45:33 2025 +0700
+
+    khinzib
+
+[33mcommit c84197ce0d51263444bb5a9088f8725ff2f5cebd[m
+Author: 0xmiwe lx <bhaipemul@gmail.com>
+Date:   Sun Jan 12 17:26:27 2025 +0000
+
+    mydescription
+
+[33mcommit 2b104934b0a935668eff66163d583cc4aee1336c[m
+Author: khinzib <boyeinstein008@gmail.com>
+Date:   Sun Jan 12 23:20:02 2025 +0700
+
+    khinzib
+
+[33mcommit 90974c7762ceef72d3a733a6f20636905f339597[m
+Author: zanuartri <triromadon@gmail.com>
+Date:   Sun Jan 12 19:46:12 2025 +0700
+
+    task10
+
+[33mcommit be8f9a230bf84780729a2f4ab829baa5d877953a[m
+Author: zanuartri <triromadon@gmail.com>
+Date:   Sun Jan 12 19:46:07 2025 +0700
+
+    task9
+
+[33mcommit e38b68ce0dce58e7a0e022ff4dfc29b57be95f2d[m
+Author: zanuartri <triromadon@gmail.com>
+Date:   Sun Jan 12 19:45:59 2025 +0700
+
+    task8
+
+[33mcommit ca5535f1f984d8fe45f102d75297f2d9c76dca3c[m
+Author: zanuartri <triromadon@gmail.com>
+Date:   Sun Jan 12 19:45:52 2025 +0700
+
+    task7
+
+[33mcommit 072ffcda6bb1c4e8f45cb39ce9e88847d80a5cfb[m
+Author: zanuartri <triromadon@gmail.com>
+Date:   Sun Jan 12 19:45:47 2025 +0700
+
+    task6
+
+[33mcommit 00a35953c763d5988ea1052ca8ece5de8b179bef[m
+Author: zanuartri <triromadon@gmail.com>
+Date:   Sun Jan 12 19:21:02 2025 +0700
+
+    task5
+
+[33mcommit 3eac6c5aadfe2660cd7fdc14be90c65ced11cb3c[m
+Author: zanuartri <triromadon@gmail.com>
+Date:   Sun Jan 12 19:20:55 2025 +0700
+
+    task4
+
+[33mcommit 16b6f39eca21a27c9170af0b7005f2ead7af1fa2[m
+Author: zanuartri <triromadon@gmail.com>
+Date:   Sun Jan 12 19:14:00 2025 +0700
+
+    task3
+
+[33mcommit eef7fef6224e1cf52c53890fa78a6122de17d594[m
+Author: zanuartri <triromadon@gmail.com>
+Date:   Sun Jan 12 19:04:14 2025 +0700
+
+    task2
+
+[33mcommit 36474d9bbcc7b1d1dc59e8654c2b509c6fe311fa[m
+Author: zanuartri <triromadon@gmail.com>
+Date:   Sun Jan 12 19:04:04 2025 +0700
+
+    task1
+
+[33mcommit 46bc507226829ce5dea35c1e2b0a6a7305c4ca47[m
+Author: zanuartri <triromadon@gmail.com>
+Date:   Sun Jan 12 16:22:20 2025 +0700
+
+    first commit
+
+[33mcommit 95af0e8c3744fcf481f146c3121d6977f5eca4ea[m
+Author: aisyah pratama <aispratama192@gmail.comgit config --global user.name Aisyahpratama>
+Date:   Sun Jan 12 13:32:41 2025 +0700
+
+    aisprata
+
+[33mcommit 7c317466f809aee04c8a5cde10f9e6d828fe205b[m
+Author: cuitme <163123353+cuitme@users.noreply.github.com>
+Date:   Sun Jan 12 06:05:23 2025 +0000
+
+    all task complete
+
+[33mcommit 2a3221ba2d210234f7ad5a695bf497dff6bc0a92[m
+Merge: 09530601 9f0e5b09
+Author: Gerry Wang <85090540+gerrywang1117@users.noreply.github.com>
+Date:   Sun Jan 12 13:11:58 2025 +0800
+
+    Merge pull request #99 from lynchnode/main
+    
+    submit all my task
+
+[33mcommit 09530601dc92f9c74c80dcb4a085b1ade688c735[m
+Merge: f66023d6 0a6db51d
+Author: Gerry Wang <85090540+gerrywang1117@users.noreply.github.com>
+Date:   Sun Jan 12 13:11:25 2025 +0800
+
+    Merge pull request #100 from akhmap/main
+    
+    registration submision akhmap
+
+[33mcommit f66023d69cb9aaeec1d8806d32ac6d05ed3021e1[m
+Merge: 29aadf75 e8b54eed
+Author: Gerry Wang <85090540+gerrywang1117@users.noreply.github.com>
+Date:   Sun Jan 12 13:10:30 2025 +0800
+
+    Merge pull request #101 from kewodsol/main
+    
+    submit challenge 1
+
+[33mcommit 29aadf75993f5d3a3055d421deeea404d080022f[m
+Merge: e0ab766d 1068a896
+Author: Gerry Wang <85090540+gerrywang1117@users.noreply.github.com>
+Date:   Sun Jan 12 13:06:43 2025 +0800
+
+    Merge pull request #103 from dlzvy/main
+    
+    submit task 3
+
+[33mcommit e0ab766d353cacee3b4e24be24e5df9520f57137[m
+Merge: f49917fc 4f32b776
+Author: Gerry Wang <85090540+gerrywang1117@users.noreply.github.com>
+Date:   Sun Jan 12 13:06:17 2025 +0800
+
+    Merge pull request #104 from adekgemes/main
+    
+    add task4&5
+
+[33mcommit 468d831990c00c909df81b103a6c8bc9e76c8e1a[m
+Author: aisyah pratama <aispratama192@gmail.comgit config --global user.name Aisyahpratama>
+Date:   Sun Jan 12 11:15:50 2025 +0700
+
+    aisprata
+
+[33mcommit 7a212df2fcd35bbb80eece90709f05399cd16e67[m
+Author: aisyah pratama <aispratama192@gmail.comgit config --global user.name Aisyahpratama>
+Date:   Sun Jan 12 10:55:54 2025 +0700
+
+    aisprata
+
+[33mcommit 1985f4ecd9862b73ea26aa186bb825b34ffb0c00[m
+Author: aisyah pratama <aispratama192@gmail.comgit config --global user.name Aisyahpratama>
+Date:   Sun Jan 12 10:50:09 2025 +0700
+
+    aisprata
+
+[33mcommit 2c5cfe5ba1c91a17b8cfafa41d00e1b193c8b4d4[m
+Author: aisyah pratama <aispratama192@gmail.comgit config --global user.name Aisyahpratama>
+Date:   Sun Jan 12 10:46:27 2025 +0700
+
+    aisprata
+
+[33mcommit 1c8cb18ef839e5218071eeed8b943f447ea3b06d[m
+Author: aisyah pratama <aispratama192@gmail.comgit config --global user.name Aisyahpratama>
+Date:   Sun Jan 12 10:39:46 2025 +0700
+
+    aisprata
+
+[33mcommit d451315337ea6854d504dcddcf57d5a0f0ad9a44[m
+Author: aisyah pratama <aispratama192@gmail.comgit config --global user.name Aisyahpratama>
+Date:   Sun Jan 12 10:22:26 2025 +0700
+
+    aisprata
+
+[33mcommit 548ec11070c31b07d0de4c876ed4b5ca9f15bad3[m
+Author: aisyah pratama <aispratama192@gmail.comgit config --global user.name Aisyahpratama>
+Date:   Sun Jan 12 09:52:05 2025 +0700
+
+    aisprata
+
+[33mcommit 4784faa550831683084412202c6484fae8bb1431[m
+Author: aisyah pratama <aispratama192@gmail.comgit config --global user.name Aisyahpratama>
+Date:   Sun Jan 12 09:34:42 2025 +0700
+
+    aisprata
+
+[33mcommit a1be6a637ca16329fb722805686ce68df5a9a4ca[m
+Author: aisyah pratama <aispratama192@gmail.comgit config --global user.name Aisyahpratama>
+Date:   Sun Jan 12 09:33:33 2025 +0700
+
+    aisprata
+
+[33mcommit 45cd67d462da603bb37512c5849fb495ded9bbc0[m
+Author: aisyah pratama <aispratama192@gmail.comgit config --global user.name Aisyahpratama>
+Date:   Sun Jan 12 09:31:44 2025 +0700
+
+    aisprata
+
+[33mcommit 373bab6196058d60f6b6a21efeb9827756a9013b[m
+Author: aisyahpratama <154869620+aisyahpratama@users.noreply.github.com>
+Date:   Sun Jan 12 08:55:59 2025 +0700
+
+    Delete submissions/Aisyhapratama
+
+[33mcommit 459d5d564177c3b8436995ccd77140896cd912a2[m
+Author: aisyahpratama <154869620+aisyahpratama@users.noreply.github.com>
+Date:   Sun Jan 12 08:54:36 2025 +0700
+
+    Update Aisyhapratama
+
+[33mcommit 63da3a03ba1de42c150a28b8599c61ec6b22534f[m
+Author: aisyahpratama <154869620+aisyahpratama@users.noreply.github.com>
+Date:   Sun Jan 12 08:53:05 2025 +0700
+
+    Create Aisyhapratama
+
+[33mcommit 4f32b7760d444f1a76d14b9f6807e552412eeacd[m
+Author: adekgemes <akumantanmu33@gmail.com>
+Date:   Sat Jan 11 18:54:36 2025 +0000
+
+    add all task
+
+[33mcommit d363448e07789efb1c1ece44766e1a9c131eb515[m
+Author: adekgemes <akumantanmu33@gmail.com>
+Date:   Sat Jan 11 17:21:28 2025 +0000
+
+    add task4&5
+
+[33mcommit 1068a8968c00cd855a74bb98afad4952fe2dc54e[m
+Author: dlzvy <brianjovandi@gmail.com>
+Date:   Sat Jan 11 16:15:47 2025 +0000
+
+    submit task 3
+
+[33mcommit e8b54eed2e67e55048526914907e06233db40e46[m
+Author: LynchNode <161241775+kewodsol@users.noreply.github.com>
+Date:   Sat Jan 11 20:19:58 2025 +0700
+
+    submit challenge 1
+
+[33mcommit 0a6db51ddcd149bdc0c2c057434f630a58e57768[m
+Author: akhmap <akhmapuri1629@gmail.com>
+Date:   Sat Jan 11 12:17:52 2025 +0000
+
+    registration submision akhmap
+
+[33mcommit 9f0e5b0906b3703df89830fe9c2fd7c3955ddaeb[m
+Author: LynchNode <99635034+lynchnode@users.noreply.github.com>
+Date:   Sat Jan 11 18:07:22 2025 +0700
+
+    submit all my task
+
+[33mcommit f49917fcfecb87d2d2f11ce2d9e326902c56921b[m
+Merge: e192fb87 b807262c
+Author: Gerry Wang <85090540+gerrywang1117@users.noreply.github.com>
+Date:   Sat Jan 11 18:30:03 2025 +0800
+
+    Merge pull request #98 from kewodsol/main
+    
+    submit task 5-10
+
+[33mcommit b807262cf578cf4620a8f3f785a85c131c960cb4[m
+Author: LynchNode <161241775+kewodsol@users.noreply.github.com>
+Date:   Sat Jan 11 17:18:42 2025 +0700
+
+    submit task 5-10
+
+[33mcommit e192fb878a605633bfe1b49474e2d59e900527a8[m
+Merge: 8cda6a2a 2532af91
+Author: Gerry Wang <85090540+gerrywang1117@users.noreply.github.com>
+Date:   Sat Jan 11 18:13:06 2025 +0800
+
+    Merge pull request #97 from kewodsol/main
+    
+    Update kewodsol.md
+
+[33mcommit 2532af911582996e06556e9b53f9f6fcf79dcb73[m
+Author: LynchNode <161241775+kewodsol@users.noreply.github.com>
+Date:   Sat Jan 11 16:12:55 2025 +0700
+
+    Update kewodsol.md
+
+[33mcommit 8cda6a2ac344782524da344e34db26b0b0bc2ed5[m
+Merge: 8fdef3b4 0ef45736
+Author: Gerry Wang <85090540+gerrywang1117@users.noreply.github.com>
+Date:   Sat Jan 11 17:05:23 2025 +0800
+
+    Merge pull request #96 from gerrywang1117/main
+    
+    README update
+
+[33mcommit 0ef45736c0fe34e5d8e80dd0b50f908b3df263a4[m
+Author: Gerry Wong <gerry@arweave.org>
+Date:   Sat Jan 11 17:04:45 2025 +0800
+
+    README update
+
+[33mcommit 8fdef3b44dad9f7cc011afe4e04e5b5a45f308f3[m
+Merge: 26c501a3 53fdeedc
+Author: Gerry Wang <85090540+gerrywang1117@users.noreply.github.com>
+Date:   Sat Jan 11 16:59:20 2025 +0800
+
+    Merge pull request #95 from kewodsol/main
+    
+    submit task 4
+
+[33mcommit 53fdeedc30bd42b26ee52f76537d8536971d6f16[m
+Author: LynchNode <161241775+kewodsol@users.noreply.github.com>
+Date:   Sat Jan 11 14:19:29 2025 +0700
+
+    submit task 4
+
+[33mcommit 26c501a321d6ba92fcde8cd11451fc0b319703b1[m
+Merge: 768fdbab b6fe9af8
+Author: Gerry Wang <85090540+gerrywang1117@users.noreply.github.com>
+Date:   Sat Jan 11 14:51:34 2025 +0800
+
+    Merge pull request #94 from kewodsol/main
+    
+    submit task3
+
+[33mcommit b6fe9af8a6ee84a67e874a1cbe3578a6c8e8a395[m
+Author: LynchNode <161241775+kewodsol@users.noreply.github.com>
+Date:   Sat Jan 11 13:45:43 2025 +0700
+
+    submit task3
+
+[33mcommit 768fdbab821b3bfbe880c987de746b581a658c5a[m
+Merge: 23e45bd9 1a0aa8d6
+Author: Gerry Wang <85090540+gerrywang1117@users.noreply.github.com>
+Date:   Sat Jan 11 14:42:17 2025 +0800
+
+    Merge pull request #93 from kewodsol/main
+    
+    submit task2
+
+[33mcommit 1a0aa8d6ec872e9cfc388649521025a20d0cc988[m
+Author: LynchNode <161241775+kewodsol@users.noreply.github.com>
+Date:   Sat Jan 11 12:36:21 2025 +0700
+
+    submit task2
+
+[33mcommit 23e45bd997a3f5ac6360d233bd021ec6dcb2e5ce[m
+Merge: 9d53c5bb 2c6a7158
+Author: Gerry Wang <85090540+gerrywang1117@users.noreply.github.com>
+Date:   Sat Jan 11 13:33:36 2025 +0800
+
+    Merge pull request #91 from kewodsol/main
+    
+    Create task1.jpg
+
+[33mcommit 9d53c5bbf7c9485ac89c207c366592126e53f32a[m
+Merge: 1eb3da99 5112b5f9
+Author: Gerry Wang <85090540+gerrywang1117@users.noreply.github.com>
+Date:   Sat Jan 11 13:33:16 2025 +0800
+
+    Merge pull request #92 from cuitme/main
+    
+    submision task 1
+
+[33mcommit 5112b5f9fd4c331a9e5fed224844b1364540c62c[m
+Author: cuitme <163123353+cuitme@users.noreply.github.com>
+Date:   Sat Jan 11 05:10:22 2025 +0000
+
+    task 1 done
+
+[33mcommit 2c6a715881570ce997f3f0c8b1eb29d772dc5630[m
+Author: LynchNode <161241775+kewodsol@users.noreply.github.com>
+Date:   Sat Jan 11 11:56:15 2025 +0700
+
+    Create task1.jpg
+
+[33mcommit 1eb3da99775d51a20df7d4deade1cfdd5a545846[m
+Merge: b859ced0 577961f1
+Author: Gerry Wang <85090540+gerrywang1117@users.noreply.github.com>
+Date:   Sat Jan 11 11:06:35 2025 +0800
+
+    Merge pull request #83 from irvanfzi/main
+    
+    add irvanfzi.md
+
+[33mcommit b859ced0336dd24429c481e86dfe3119f29c28d1[m
+Merge: 776328bb 3bd6131e
+Author: Gerry Wang <85090540+gerrywang1117@users.noreply.github.com>
+Date:   Sat Jan 11 11:06:10 2025 +0800
+
+    Merge pull request #84 from yusuefairdrop/main
+    
+    task1
+
+[33mcommit 776328bbf797e6f4376a162d7777c40625fcef12[m
+Merge: 6d2a1cef b9481142
+Author: Gerry Wang <85090540+gerrywang1117@users.noreply.github.com>
+Date:   Sat Jan 11 11:05:16 2025 +0800
+
+    Merge pull request #85 from 0xibrahimsh/main
+    
+    task 1
+
+[33mcommit 6d2a1cefbbb2f8bcf32b4c416b452bfc1cdbfd53[m
+Merge: 99ad547e f2334674
+Author: Gerry Wang <85090540+gerrywang1117@users.noreply.github.com>
+Date:   Sat Jan 11 11:02:05 2025 +0800
+
+    Merge pull request #88 from zkyudiairdrop/main
+    
+    zkyudiairdrop.md
+
+[33mcommit 99ad547e938565526a1eebf5cb7fc5ecd698bd5a[m
+Merge: 11ba6d95 cf84ad54
+Author: Gerry Wang <85090540+gerrywang1117@users.noreply.github.com>
+Date:   Sat Jan 11 11:01:19 2025 +0800
+
+    Merge pull request #89 from adryan089/main
+    
+    task 1 done
+
+[33mcommit 11ba6d9533039a78ecb88201226066bd28652ba7[m
+Merge: f7a603f4 ba8c1e7e
+Author: Gerry Wang <85090540+gerrywang1117@users.noreply.github.com>
+Date:   Sat Jan 11 11:00:53 2025 +0800
+
+    Merge pull request #90 from adekgemes/main
+    
+    add task 3
+
+[33mcommit f23346744e528b14121951783135a9542c0b8ecb[m
+Author: unknown <yudialjawi87@gmail.com>
+Date:   Sat Jan 11 01:41:24 2025 +0800
+
+    task1
+
+[33mcommit ba8c1e7e258db44317fb4d57ae6f90dafe3f4210[m
+Author: adekgemes <akumantanmu33@gmail.com>
+Date:   Fri Jan 10 17:39:29 2025 +0000
+
+    add task 3
+
+[33mcommit cf84ad543938afe8abefde312545b8068e9702bd[m
+Author: Adryan Pintratama Amarcha <masmarko117@gmail.com>
+Date:   Sat Jan 11 00:13:17 2025 +0700
+
+    Delete submissions/adryan089/task2 directory
+
+[33mcommit 53cb542f00d0fd68a5a1d5b4e1b778982cf495ba[m
+Author: Paisramdani11 <87491902+Paisramdani11@users.noreply.github.com>
+Date:   Sat Jan 11 00:12:05 2025 +0700
+
+    Update Paisramdani11.md
+
+[33mcommit 6f1650684d45c4fc34ab66c44ab5d979a6c6d9bf[m
+Author: Adryan Pintratama Amarcha <masmarko117@gmail.com>
+Date:   Sat Jan 11 00:10:54 2025 +0700
+
+    task2 mission
+
+[33mcommit a29073f27b947469a25027ff4ac2e17ace0242ec[m
+Author: unknown <yudialjawi87@gmail.com>
+Date:   Sat Jan 11 01:07:23 2025 +0800
+
+    zkyudiairdrop.md
+
+[33mcommit 9d29a152d9b5a4d1ca64e75572dfae3426de85f7[m
+Author: Adryan Pintratama Amarcha <masmarko117@gmail.com>
+Date:   Fri Jan 10 23:51:00 2025 +0700
+
+    task1 mission
+
+[33mcommit ff83e6e573b79f666cfd81a535187816c3d8c881[m
+Author: Paisramdani11 <faizrmdni04@gmail.com>
+Date:   Fri Jan 10 23:41:34 2025 +0700
+
+    Menambahkan file Paisramdani11.md
+
+[33mcommit 3bd6131e1f4a224018a1ba76de39b248a1a4a0f5[m
+Author: yusuefairdrop <yusuefarsha.airdrop@gmail.com>
+Date:   Fri Jan 10 23:12:08 2025 +0700
+
+    task10
+
+[33mcommit 4a2529032553b7eb77af0ce68bd91a5d8b0c06e4[m
+Author: yusuefairdrop <yusuefarsha.airdrop@gmail.com>
+Date:   Fri Jan 10 23:11:06 2025 +0700
+
+    task9
+
+[33mcommit 0c97f191c3f7367ba71a0d706d3113651424f980[m
+Author: Paisramdani11 <87491902+Paisramdani11@users.noreply.github.com>
+Date:   Fri Jan 10 23:10:17 2025 +0700
+
+    Update template.md
+
+[33mcommit 05ab391081454f4efee3155bb41cdf0925de84a2[m
+Author: yusuefairdrop <yusuefarsha.airdrop@gmail.com>
+Date:   Fri Jan 10 23:10:05 2025 +0700
+
+    task8
+
+[33mcommit 06b01b4632839fa8e3f50295a98910698866f702[m
+Author: yusuefairdrop <yusuefarsha.airdrop@gmail.com>
+Date:   Fri Jan 10 23:09:07 2025 +0700
+
+    task7
+
+[33mcommit 9c0471502fe06d036a3db6ea77432820edd9a352[m
+Author: yusuefairdrop <yusuefarsha.airdrop@gmail.com>
+Date:   Fri Jan 10 23:08:01 2025 +0700
+
+    task6
+
+[33mcommit 238fe20089eb32df4047c3360a52ed1483e59c93[m
+Author: yusuefairdrop <yusuefarsha.airdrop@gmail.com>
+Date:   Fri Jan 10 23:05:21 2025 +0700
+
+    task5
+
+[33mcommit df7f06aa17c1face78739446c1d03ea0d2f2d511[m
+Author: yusuefairdrop <yusuefarsha.airdrop@gmail.com>
+Date:   Fri Jan 10 23:03:02 2025 +0700
+
+    task4
+
+[33mcommit b9481142efa534e90a6e488d7f795aa478310582[m
+Author: 0xibra <39179617+0xibrahimsh@users.noreply.github.com>
+Date:   Fri Jan 10 22:59:58 2025 +0700
+
+    Delete submissions/0xibrahimsh/task2/gh
+
+[33mcommit 71018176e58f835e5dcf3f71e675c13a44587aa2[m
+Author: 0xibra <39179617+0xibrahimsh@users.noreply.github.com>
+Date:   Fri Jan 10 22:59:24 2025 +0700
+
+    Add files via upload
+
+[33mcommit e8d1b0ddf210a6bac9c2456a3b0bf0308fcf450c[m
+Author: 0xibra <39179617+0xibrahimsh@users.noreply.github.com>
+Date:   Fri Jan 10 22:59:04 2025 +0700
+
+    Create gh
+
+[33mcommit c53727f6018109450983fbb1913eb27c1a3a4804[m
+Author: 0xibra <39179617+0xibrahimsh@users.noreply.github.com>
+Date:   Fri Jan 10 22:58:37 2025 +0700
+
+    Delete submissions/0xibrahimsh/task2
+
+[33mcommit 1d14df8f75050825332151e59d23344064776d64[m
+Author: 0xibra <39179617+0xibrahimsh@users.noreply.github.com>
+Date:   Fri Jan 10 22:58:18 2025 +0700
+
+    Create task2
+
+[33mcommit 14b294470f9bd3e8edd7ad8216fa40fe39dff46e[m
+Author: 0xibra <39179617+0xibrahimsh@users.noreply.github.com>
+Date:   Fri Jan 10 22:40:10 2025 +0700
+
+    Delete submissions/0xibrahimsh/task1/tr
+
+[33mcommit a0716689d4881c04e5b4c81be465265d57956f72[m
+Author: 0xibra <39179617+0xibrahimsh@users.noreply.github.com>
+Date:   Fri Jan 10 22:33:59 2025 +0700
+
+    Add files via upload
+
+[33mcommit e0607687307b6736606ea8b3604318136ad6488c[m
+Author: yusuefairdrop <yusuefarsha.airdrop@gmail.com>
+Date:   Fri Jan 10 21:39:23 2025 +0700
+
+    task3
+
+[33mcommit 971eb9ea6c58a080161daa726eafb08719935b17[m
+Author: yusuefairdrop <yusuefarsha.airdrop@gmail.com>
+Date:   Fri Jan 10 21:35:03 2025 +0700
+
+    task2
+
+[33mcommit f995cda30668abe9a1efd1229dc038431281c678[m
+Author: yusuefairdrop <yusuefarsha.airdrop@gmail.com>
+Date:   Fri Jan 10 21:25:00 2025 +0700
+
+    task1
+
+[33mcommit 577961f16064e1a9c792dea8262a5d05174f26be[m
+Author: Irvan Fauzi <irvanfzi@icloud.com>
+Date:   Fri Jan 10 20:43:26 2025 +0700
+
+    Delete submissions/irvanfzi/template.md:Zone.Identifier
+
+[33mcommit 6c83139e574228d75f56e3b54d2d50738c0adad4[m
+Author: irvanfzi <irvanfzi@icloud.com>
+Date:   Fri Jan 10 20:02:34 2025 +0700
+
+    add irvanfzi.md
+
+[33mcommit f7a603f414dd95bb1fbe38779ab2ef832d2ed755[m
+Merge: 9b7f0953 abcb326e
+Author: Gerry Wang <85090540+gerrywang1117@users.noreply.github.com>
+Date:   Fri Jan 10 19:48:11 2025 +0800
+
+    Merge pull request #82 from dlzvy/main
+    
+    adding task 2
+
+[33mcommit 9b7f0953686f23059ffc6f460905703b39121a85[m
+Merge: 35786981 e3bff99c
+Author: Gerry Wang <85090540+gerrywang1117@users.noreply.github.com>
+Date:   Fri Jan 10 19:40:28 2025 +0800
+
+    Merge pull request #81 from adekgemes/main
+    
+    add task 1
+
+[33mcommit abcb326e2a4fbf31b4762328749c64ca7731c6af[m
+Author: dlzvy <brianjovandi@gmail.com>
+Date:   Fri Jan 10 11:39:36 2025 +0000
+
+    adding task 2
+
+[33mcommit e3bff99cafbccaf18c875b8ac2ccc1e8ff9f371a[m
+Author: adekgemes <akumantanmu33@gmail.com>
+Date:   Fri Jan 10 11:21:23 2025 +0000
+
+    adding task2
+
+[33mcommit f838063f19e6179f48cc71ca0147140175efd162[m
+Author: adekgemes <akumantanmu33@gmail.com>
+Date:   Fri Jan 10 10:59:13 2025 +0000
+
+    add task1
+
+[33mcommit 357869813aec7ef82ac43b1a5034cb02f224d50f[m
+Merge: fadbdacf 13f94d41
+Author: Gerry Wang <85090540+gerrywang1117@users.noreply.github.com>
+Date:   Fri Jan 10 18:48:06 2025 +0800
+
+    Merge pull request #80 from dlzvy/main
+    
+    task1
+
+[33mcommit 13f94d415018aa6facde3def2c86731da6b87ad6[m
+Author: dlzvy <brianjovandi@gmail.com>
+Date:   Fri Jan 10 10:33:15 2025 +0000
+
+    task1
+
+[33mcommit cd5b2a90b734e3d10b13c2da3446e187b6cce195[m
+Author: dlzvy <brianjovandi@gmail.com>
+Date:   Fri Jan 10 10:24:10 2025 +0000
+
+    task1
+
+[33mcommit fadbdacf069ca2377ac936e4ff74483eb10673a8[m
+Merge: 6077929a 1f728e78
+Author: Gerry Wang <85090540+gerrywang1117@users.noreply.github.com>
+Date:   Fri Jan 10 16:35:09 2025 +0800
+
+    Merge pull request #75 from hnfdm/main
+    
+    update challenge 4
+
+[33mcommit 6077929a65ea7b01b28164333177948ccc55f557[m
+Merge: 327376b4 bb5d2ac9
+Author: Gerry Wang <85090540+gerrywang1117@users.noreply.github.com>
+Date:   Fri Jan 10 16:34:38 2025 +0800
+
+    Merge pull request #76 from abdulonnara/main
+    
+    Submission Task 1-10
+
+[33mcommit 327376b4c7a7d5a6be9fd93171f2b750c87f495b[m
+Merge: f39def6b d327524d
+Author: Gerry Wang <85090540+gerrywang1117@users.noreply.github.com>
+Date:   Fri Jan 10 16:34:01 2025 +0800
+
+    Merge pull request #77 from AlbertGoldwin/main
+    
+    add: AlbertGoldwin.md
+
+[33mcommit f39def6b9e609669c7141bf1c141b97da9c790b7[m
+Merge: 3505a6b5 d4b7276f
+Author: Gerry Wang <85090540+gerrywang1117@users.noreply.github.com>
+Date:   Fri Jan 10 16:33:42 2025 +0800
+
+    Merge pull request #78 from adekgemes/main
+    
+    add submission
+
+[33mcommit d4b7276f6f95fa33a525811fe57041a1595e9169[m
+Author: adekgemes <akumantanmu33@gmail.com>
+Date:   Fri Jan 10 08:17:04 2025 +0000
+
+    add submission
+
+[33mcommit d327524da8efcc21cb1dd7dc51fd693ac6d0c5d2[m
+Author: Albert G <albert.goldwin001@gmail.com>
+Date:   Fri Jan 10 13:52:41 2025 +0700
+
+    add: AlbertGoldwin.md
+
+[33mcommit bb5d2ac9dc8a8de1f371fbf5a7b9c02c3db8e27a[m
+Author: root <root@vmi2215813.contaboserver.net>
+Date:   Thu Jan 9 23:16:26 2025 -0600
+
+    Submission Task 1-10
+
+[33mcommit 1f728e78331ffbec6c6ff59b3f06ec8dbfad18b7[m
+Author: hanifdamarjati20 <hanif.damarjati20@gmail.com>
+Date:   Fri Jan 10 11:41:25 2025 +0700
+
+    update challenge4
+
+[33mcommit 55363aa473df38412bb5f50e8205510b5afb404b[m
+Author: aisyahpratama <154869620+aisyahpratama@users.noreply.github.com>
+Date:   Fri Jan 10 10:35:03 2025 +0700
+
+    Update README.md
+
+[33mcommit 3505a6b5c20fd8e130317ea8fdd94f480372481b[m
+Merge: 08acbce6 2f94b52e
+Author: Gerry Wang <85090540+gerrywang1117@users.noreply.github.com>
+Date:   Fri Jan 10 11:22:36 2025 +0800
+
+    Merge pull request #74 from badek212/main
+    
+    Submissions
+
+[33mcommit 2f94b52e5cfd4285cd5a42e4ba12f6ed33a0ffc8[m
+Author: DakoChan <44367314+badek212@users.noreply.github.com>
+Date:   Fri Jan 10 09:53:16 2025 +0700
+
+    Update badek212.md
+
+[33mcommit ddc5269d71beb353e9a2af658ef41414b300e771[m
+Author: DakoChan <44367314+badek212@users.noreply.github.com>
+Date:   Fri Jan 10 09:47:40 2025 +0700
+
+    badek212.md
+
+[33mcommit 184dfc885381def7422014dc0b5180906d1da1d5[m
+Author: DakoChan <44367314+badek212@users.noreply.github.com>
+Date:   Fri Jan 10 09:45:13 2025 +0700
+
+    Delete submissions/badek212
+
+[33mcommit be9dc42f1db881f8a1d82c728eda7b290d456e6c[m
+Author: DakoChan <44367314+badek212@users.noreply.github.com>
+Date:   Fri Jan 10 09:44:35 2025 +0700
+
+    badek212
+
+[33mcommit efd64dab2f1fa9be670885eebe677d7107d54abe[m
+Author: DakoChan <44367314+badek212@users.noreply.github.com>
+Date:   Fri Jan 10 09:40:20 2025 +0700
+
+    Delete submissions/badek212
+
+[33mcommit 951c27fb9a4539e0e2718dd1ad157a06d115fe38[m
+Author: DakoChan <44367314+badek212@users.noreply.github.com>
+Date:   Fri Jan 10 09:39:20 2025 +0700
+
+    badek212
+
+[33mcommit 08acbce60d59dbe859d2e39de07a3649a08513be[m
+Merge: 4a95c560 ccde98c5
+Author: Gerry Wang <85090540+gerrywang1117@users.noreply.github.com>
+Date:   Fri Jan 10 09:34:13 2025 +0800
+
+    Merge pull request #62 from hnfdm/main
+    
+    challenge1
+
+[33mcommit 4a95c5607dca74933e1910edfc38637b1c0d3b49[m
+Merge: e9da2bbd 6cc1f308
+Author: Gerry Wang <85090540+gerrywang1117@users.noreply.github.com>
+Date:   Fri Jan 10 09:31:28 2025 +0800
+
+    Merge pull request #63 from Gusma-crypto/main
+    
+    registration submision gusma
+
+[33mcommit e9da2bbd7e9c9dfd0a494c8804094a8f241b3d94[m
+Merge: 1633896c 8d4b5a29
+Author: Gerry Wang <85090540+gerrywang1117@users.noreply.github.com>
+Date:   Fri Jan 10 09:30:11 2025 +0800
+
+    Merge pull request #64 from TheoInTech/main
+    
+    docs: add theointech's markdown
+
+[33mcommit 1633896c411725bec7c4d13cabe8733a32130357[m
+Merge: 83efa81c 7e94f600
+Author: Gerry Wang <85090540+gerrywang1117@users.noreply.github.com>
+Date:   Fri Jan 10 09:29:44 2025 +0800
+
+    Merge pull request #65 from Linapatafi/main
+    
+    submissions task and edit file
+
+[33mcommit 83efa81c6541dff004ffdc28016da4d36971bce2[m
+Merge: b7c433a8 5eed9377
+Author: Gerry Wang <85090540+gerrywang1117@users.noreply.github.com>
+Date:   Fri Jan 10 09:29:00 2025 +0800
+
+    Merge pull request #66 from asriqul/main
+    
+    Task Submission 1-10 Learn Content
+
+[33mcommit b7c433a86298a78dafd5c2714f204dcff0dbaea2[m
+Merge: c0671902 a1804fa5
+Author: Gerry Wang <85090540+gerrywang1117@users.noreply.github.com>
+Date:   Fri Jan 10 09:26:37 2025 +0800
+
+    Merge pull request #67 from 0xibrahimsh/main
+    
+    0xibrahimsh
+
+[33mcommit c0671902b70bfe64c19bd531e6535d0922e53f1e[m
+Merge: 8dedae93 017bb991
+Author: Gerry Wang <85090540+gerrywang1117@users.noreply.github.com>
+Date:   Fri Jan 10 09:25:53 2025 +0800
+
+    Merge pull request #68 from abdulonnara/main
+    
+    Add File
+
+[33mcommit 8dedae931c31c17c0150108665825e6c625b0559[m
+Merge: 1aff0cb9 563f337a
+Author: Gerry Wang <85090540+gerrywang1117@users.noreply.github.com>
+Date:   Fri Jan 10 09:25:31 2025 +0800
+
+    Merge pull request #69 from lwhile/main
+    
+    add lwhile.md
+
+[33mcommit 1aff0cb959c5251229df1d885b00349f45862758[m
+Merge: 7ffe4ef2 980e4580
+Author: Gerry Wang <85090540+gerrywang1117@users.noreply.github.com>
+Date:   Fri Jan 10 09:24:38 2025 +0800
+
+    Merge pull request #70 from yusuefairdrop/main
+    
+    yusuefairdrop.md
+
+[33mcommit 7ffe4ef20287e3727e799e0513d4f8ec181003a9[m
+Merge: 31ece233 2aa079be
+Author: Gerry Wang <85090540+gerrywang1117@users.noreply.github.com>
+Date:   Fri Jan 10 09:21:06 2025 +0800
+
+    Merge pull request #73 from jordi-stack/add-jordi-md
+    
+    add: jordi.md
+
+[33mcommit 2aa079be275416b758ac4512650f44b26bc82f08[m
+Author: jordi <anjasroket@gmail.com>
+Date:   Fri Jan 10 06:58:26 2025 +0700
+
+    save: changes to jordi.md
+
+[33mcommit 5da14fcdcf4fb95e1b1877b8325481df9d7daced[m
+Author: jordi <anjasroket@gmail.com>
+Date:   Fri Jan 10 06:36:00 2025 +0700
+
+    add: jordi.md
+
+[33mcommit 9ccf67a9c7b7917e08231adec4259e0ffbcae8f3[m
+Author: mevan <122137078+xMevan@users.noreply.github.com>
+Date:   Fri Jan 10 05:53:59 2025 +0700
+
+    Update xMevan.md
+
+[33mcommit d741066b5dfa3e60d3307f0861446819a96a7524[m
+Author: xMevan <irvaaanfauzi1@gmail.com>
+Date:   Fri Jan 10 02:25:01 2025 +0700
+
+    challenge2 submissions
+
+[33mcommit 980e4580b8db01c338a7b66ce3510757a02255fa[m
+Author: yusuefairdrop <yusuefarsha.airdrop@gmail.com>
+Date:   Fri Jan 10 02:13:19 2025 +0700
+
+    template.md
+    
+    undo default
+
+[33mcommit 1bd473b3997f7d71347ac2e6d72ebef1567bff90[m
+Author: yusuefairdrop <yusuefarsha.airdrop@gmail.com>
+Date:   Fri Jan 10 01:00:33 2025 +0700
+
+    Delete BulishAOProjects.txt
+    
+    sample deleted
+
+[33mcommit 8cf454e3d20d4b121b5b684a72ac5d881a2e6eb3[m
+Author: yusuefairdrop <yusuefarsha.airdrop@gmail.com>
+Date:   Fri Jan 10 00:59:23 2025 +0700
+
+    yusuefairdrop.md
+    
+    update
+
+[33mcommit 336cc33c646526c2c8e7fa1cfca84cd83ad78a13[m
+Author: yusuefairdrop <yusuefarsha.airdrop@gmail.com>
+Date:   Fri Jan 10 00:45:37 2025 +0700
+
+    Add files via upload
+
+[33mcommit 5eed93772269304ca129026378aa3c590ecc0c0f[m
+Author: asriqul <didipbnc11@gmail.com>
+Date:   Fri Jan 10 00:26:41 2025 +0700
+
+    Challenge 1 Submission
+
+[33mcommit dc6a727c91aa8df86c99fa22254fd5a5672e82e0[m
+Author: asriqul <didipbnc11@gmail.com>
+Date:   Fri Jan 10 00:24:16 2025 +0700
+
+    Challenge 1 Submission
+
+[33mcommit 6d47f31d3d0413d9ff7f76ccf7abe04178a838be[m
+Author: yusuefairdrop <yusuefarsha.airdrop@gmail.com>
+Date:   Thu Jan 9 23:41:54 2025 +0700
+
+    BulishAOProjects
+    
+    Update
+
+[33mcommit 563f337a34c7c1d18f915823b4fe28def7f2a7f1[m
+Author: lwhile <lwhile521@gmail.com>
+Date:   Fri Jan 10 00:31:43 2025 +0800
+
+    add lwhile.md
+
+[33mcommit 017bb991370af5e3ddf1b55c3dcbfbdadf60e19c[m
+Author: root <root@vmi2215813.contaboserver.net>
+Date:   Thu Jan 9 09:57:21 2025 -0600
+
+    add file
+
+[33mcommit 9e3dde49e74c321388e3a934f52d31efe197e69a[m
+Author: root <root@vmi2215813.contaboserver.net>
+Date:   Thu Jan 9 09:55:30 2025 -0600
+
+    add file
+
+[33mcommit a1804fa56c5a21219e942471d934a17e837f0509[m
+Author: 0xibra <39179617+0xibrahimsh@users.noreply.github.com>
+Date:   Thu Jan 9 22:43:31 2025 +0700
+
+    Create tr
+
+[33mcommit d21f2a99ea95e2e8808dd3e6c495b167adf14706[m
+Author: 0xibra <39179617+0xibrahimsh@users.noreply.github.com>
+Date:   Thu Jan 9 22:35:44 2025 +0700
+
+    Update and rename template to 0xibrahimsh.md
+
+[33mcommit a9ff4f0d144df4e0ef99b8f3cf77a7e36a18d64f[m
+Author: 0xibra <39179617+0xibrahimsh@users.noreply.github.com>
+Date:   Thu Jan 9 22:32:29 2025 +0700
+
+    Update template
+
+[33mcommit 8d4b5a29b613ef1edf6123737407f9b663c13a18[m
+Author: Theo in Tech <theoroque95@gmail.com>
+Date:   Thu Jan 9 23:28:30 2025 +0800
+
+    docs: finished task 1
+
+[33mcommit dae7d7ca5260dadaf6bbcabc2b7bc22bc5bdd2f4[m
+Author: asriqul <didipbnc11@gmail.com>
+Date:   Thu Jan 9 22:27:08 2025 +0700
+
+    Task Submission 1-10 Learn Content
+
+[33mcommit 7e94f600445e43c1f5fc398db720dd241aff4e0e[m
+Author: root <root@vmi2252924.contaboserver.net>
+Date:   Thu Jan 9 16:25:47 2025 +0100
+
+    Upload Task 10
+
+[33mcommit dc7be5dc4418abb5b707c8ba5aa7d1e53700942a[m
+Author: root <root@vmi2252924.contaboserver.net>
+Date:   Thu Jan 9 16:22:26 2025 +0100
+
+    Upload Task 9
+
+[33mcommit 3db33fa801a84b23b3a9c7859a0b800e3ea860f3[m
+Author: root <root@vmi2252924.contaboserver.net>
+Date:   Thu Jan 9 16:18:24 2025 +0100
+
+    Upload Task 8
+
+[33mcommit 1438b12124d4235d6a95eacbbe68046e448ad816[m
+Author: root <root@vmi2252924.contaboserver.net>
+Date:   Thu Jan 9 16:12:28 2025 +0100
+
+    Upload Task 7
+
+[33mcommit 50aa92fd196701753157f03599085fe9175e1b69[m
+Author: Theo in Tech <theoroque95@gmail.com>
+Date:   Thu Jan 9 23:11:17 2025 +0800
+
+    docs: add theointech's markdown
+
+[33mcommit 92e49744dd79fd8cf18637458fbd846991501ad0[m
+Author: root <root@vmi2252924.contaboserver.net>
+Date:   Thu Jan 9 16:08:53 2025 +0100
+
+    Upload Task 6
+
+[33mcommit fa8f04ea31aff2aa91865f5df54e193018392c29[m
+Author: 0xibra <39179617+0xibrahimsh@users.noreply.github.com>
+Date:   Thu Jan 9 22:05:24 2025 +0700
+
+    Create template
+
+[33mcommit 5a517974ea3536aadde1db38c31de4df6fd20444[m
+Author: root <root@vmi2252924.contaboserver.net>
+Date:   Thu Jan 9 16:05:17 2025 +0100
+
+    Upload Task 5
+
+[33mcommit 648ac5ef759abb2f3864e232730b013583a1750f[m
+Author: 0xibra <39179617+0xibrahimsh@users.noreply.github.com>
+Date:   Thu Jan 9 22:01:34 2025 +0700
+
+    Delete submissions/0xibrahimsh
+
+[33mcommit 7f4d84b8c77d18feeab9d73535a7b3d25a8737c9[m
+Author: root <root@vmi2252924.contaboserver.net>
+Date:   Thu Jan 9 16:00:59 2025 +0100
+
+    Add File
+
+[33mcommit 61e11aa30fabfaa115abe1b95e187863e4dd899b[m
+Author: 0xibra <39179617+0xibrahimsh@users.noreply.github.com>
+Date:   Thu Jan 9 22:00:28 2025 +0700
+
+    Create 0xibrahimsh
+
+[33mcommit e6e0e0dab5c6addf4cfe9bae59de1e52c1324b04[m
+Author: root <root@vmi2252924.contaboserver.net>
+Date:   Thu Jan 9 15:58:36 2025 +0100
+
+    Upload Task 4
+
+[33mcommit ccde98c5e87e0f666b26b5262a4a75b1ce8ab6cb[m
+Author: hanifdamarjati20 <hanif.damarjati20@gmail.com>
+Date:   Thu Jan 9 21:49:50 2025 +0700
+
+    add challenge3 & challenge4
+
+[33mcommit 6cc1f308804cb5f23873a6c344f1c0470cef1daf[m
+Author: Gusma-crypto <agussulistionoa0@gmail.com>
+Date:   Thu Jan 9 21:41:10 2025 +0700
+
+    gusma registration submision
+
+[33mcommit fd16365615ca0550396f6cb7574f77b27529e29c[m
+Author: Gusma-crypto <agussulistionoa0@gmail.com>
+Date:   Thu Jan 9 21:35:59 2025 +0700
+
+    gusma registration submision
+
+[33mcommit af4bc7f6f50d1e2470abe2772fd36caeb18d8041[m
+Author: hanifdamarjati20 <hanif.damarjati20@gmail.com>
+Date:   Thu Jan 9 21:33:05 2025 +0700
+
+    challenge2
+
+[33mcommit 21058d8b18cb005c464ac5d17b28081144034be4[m
+Author: hanifdamarjati20 <hanif.damarjati20@gmail.com>
+Date:   Thu Jan 9 21:22:48 2025 +0700
+
+    challenge1
+
+[33mcommit 31ece233e8d30564a015c2ce997edd0370cdc7b8[m
+Merge: d027040f a90706e3
+Author: Gerry Wang <85090540+gerrywang1117@users.noreply.github.com>
+Date:   Thu Jan 9 22:14:13 2025 +0800
+
+    Merge pull request #61 from hexarin/main
+    
+    hexarin.md
+
+[33mcommit a90706e34bbb3be21a54c5e4d66e8e0838255080[m
+Author: root <root@vaio.>
+Date:   Thu Jan 9 21:00:07 2025 +0700
+
+    Description of changes
+
+[33mcommit d027040fdfa67c840021d82fa0c771e3d73091bc[m
+Merge: 21aa3f9b 839b4e49
+Author: Gerry Wang <85090540+gerrywang1117@users.noreply.github.com>
+Date:   Thu Jan 9 21:32:47 2025 +0800
+
+    Merge pull request #59 from Dedews/main
+    
+    Adding submission for Task 3
+
+[33mcommit 21aa3f9bf4b5fa0523e59e887aee638f658313c0[m
+Merge: 6d665118 e6feef84
+Author: Gerry Wang <85090540+gerrywang1117@users.noreply.github.com>
+Date:   Thu Jan 9 21:31:15 2025 +0800
+
+    Merge pull request #60 from Linapatafi/main
+    
+    Add File
+
+[33mcommit e6feef84dfba5acc296b6b3a44d2fac039e8d40c[m
+Author: root <root@vmi2252924.contaboserver.net>
+Date:   Thu Jan 9 14:30:42 2025 +0100
+
+    Upload Task 3
+
+[33mcommit 3c8b0078a07567a39a429c2a8a12353efc7b013f[m
+Author: root <root@vmi2252924.contaboserver.net>
+Date:   Thu Jan 9 14:23:28 2025 +0100
+
+    Upload Task 2
+
+[33mcommit 9c7af045b8a6ec12f510613f3814ec32076fd742[m
+Author: root <root@vmi2252924.contaboserver.net>
+Date:   Thu Jan 9 14:16:26 2025 +0100
+
+    Upload Task 1
+
+[33mcommit 7f15be403948ba5213d939d793255ba23261237d[m
+Author: root <root@vmi2252924.contaboserver.net>
+Date:   Thu Jan 9 14:02:08 2025 +0100
+
+    Add File
+
+[33mcommit 839b4e49a75e2b0146bd955d0a04dcaf71fcba12[m
+Author: Dedews <dedewahyu.land@gmail.com>
+Date:   Thu Jan 9 20:01:44 2025 +0700
+
+    Adding submission for Task 3
+
+[33mcommit 6d66511813bbee3dca8964438c722840d70d3ff1[m
+Merge: 17306b3d ecd89c41
+Author: Gerry Wang <85090540+gerrywang1117@users.noreply.github.com>
+Date:   Thu Jan 9 20:47:18 2025 +0800
+
+    Merge pull request #58 from Dedews/main
+    
+    Submit Task 1 Completion
+
+[33mcommit ecd89c4154734ddbf17cd241fb4da9fa5d3080f8[m
+Author: Dedews <dedewahyu.land@gmail.com>
+Date:   Thu Jan 9 19:45:34 2025 +0700
+
+    Adding submission for Task 2
+
+[33mcommit 9ee9403adc3590be56497ea90f33be4e59b7a3a1[m
+Author: Dedews <dedewahyu.land@gmail.com>
+Date:   Thu Jan 9 19:30:50 2025 +0700
+
+    Submit Task 1 Completion
+
+[33mcommit 17306b3d818924cc9e86c8e259a6bdf831a56907[m
+Merge: dc40928e fec238de
+Author: Gerry Wang <85090540+gerrywang1117@users.noreply.github.com>
+Date:   Thu Jan 9 20:23:38 2025 +0800
+
+    Merge pull request #55 from Renkaali/main
+    
+    update submission task
+
+[33mcommit dc40928eade8c3b5ee3ae1335c75a536be401a43[m
+Merge: f05de1d5 0dfc9c9d
+Author: Gerry Wang <85090540+gerrywang1117@users.noreply.github.com>
+Date:   Thu Jan 9 20:23:06 2025 +0800
+
+    Merge pull request #56 from hnfdm/main
+    
+    update submissions task
+
+[33mcommit f05de1d5012fbf38d4aa15e545d49f4ae2dafc2a[m
+Merge: 70f7a075 c9a2c1e3
+Author: Gerry Wang <85090540+gerrywang1117@users.noreply.github.com>
+Date:   Thu Jan 9 20:21:54 2025 +0800
+
+    Merge pull request #57 from Dedews/main
+    
+    Adding submission dedews.md file
+
+[33mcommit fec238de2c145c8977e00bb1d356eea13791cbe8[m
+Author: root <root@vmi2215814.contaboserver.net>
+Date:   Thu Jan 9 06:13:28 2025 -0600
+
+    Task 10 submission
+
+[33mcommit 25f2122b75a886c5f1a9ba91f69b187d26a0e9eb[m
+Author: root <root@vmi2215814.contaboserver.net>
+Date:   Thu Jan 9 06:11:00 2025 -0600
+
+    Task 9 submission
+
+[33mcommit 2b98195c6102d551d337fe6d25140e857c7c3e1f[m
+Author: root <root@vmi2215814.contaboserver.net>
+Date:   Thu Jan 9 06:08:47 2025 -0600
+
+    Task 8 submission
+
+[33mcommit c9a2c1e3e7f6f869a2606594354ecb839c67b3ad[m
+Author: Dedews <dedewahyu.land@gmail.com>
+Date:   Thu Jan 9 19:08:30 2025 +0700
+
+    Adding submission for Task 1
+
+[33mcommit 0dfc9c9d342dd7c7ec4c3de723792bd249e934c0[m
+Author: hanifdamarjati20 <hanif.damarjati20@gmail.com>
+Date:   Thu Jan 9 19:04:12 2025 +0700
+
+    rename template to hnfdm
+
+[33mcommit e389eaf4c78c3f29dee720ec31f2cf8bfcfaf0f3[m
+Author: hanifdamarjati20 <hanif.damarjati20@gmail.com>
+Date:   Thu Jan 9 19:01:42 2025 +0700
+
+    update submissions
+
+[33mcommit 77db135f5a4fc0a650d424d39096477630033fd2[m
+Author: root <root@vmi2215814.contaboserver.net>
+Date:   Thu Jan 9 05:40:16 2025 -0600
+
+    Task 7 submission
+
+[33mcommit 9bc05d03c4d0a3431591d13d4de36276eb0b7790[m
+Author: root <root@vmi2215814.contaboserver.net>
+Date:   Thu Jan 9 05:29:46 2025 -0600
+
+    Task 6 submission
+
+[33mcommit 94e1ad7c932d90e4994f51cfe8086353fa67decd[m
+Author: root <root@vmi2215814.contaboserver.net>
+Date:   Thu Jan 9 05:20:32 2025 -0600
+
+    Task 5 submission
+
+[33mcommit 70f7a0756bde18aded749b5ae299ead13f0df61d[m
+Merge: 6b0b0fb4 212b5ddb
+Author: Gerry Wang <85090540+gerrywang1117@users.noreply.github.com>
+Date:   Thu Jan 9 19:12:38 2025 +0800
+
+    Merge pull request #54 from Renkaali/main
+    
+    Task 4 submission
+
+[33mcommit 212b5ddb5e5a2119f74bb385c4182f7da15bbcf3[m
+Author: root <root@vmi2215814.contaboserver.net>
+Date:   Thu Jan 9 04:53:45 2025 -0600
+
+    Task 4 submission
+
+[33mcommit 6b0b0fb4d15d1986ad2b9387326a10d648f3fea6[m
+Merge: ea900d14 c75b0300
+Author: Gerry Wang <85090540+gerrywang1117@users.noreply.github.com>
+Date:   Thu Jan 9 18:22:19 2025 +0800
+
+    Merge pull request #52 from Renkaali/main
+    
+    Task 3 submission
+
+[33mcommit c75b03006e0bf444f433cc62ef7dd27eafc908ec[m
+Author: root <root@vmi2215814.contaboserver.net>
+Date:   Thu Jan 9 04:10:01 2025 -0600
+
+    Task 3 submission
+
+[33mcommit ea900d140fa7e1987e8a3653eb4ba2be123a31ad[m
+Merge: c61c106b fad7fdaf
+Author: Gerry Wang <85090540+gerrywang1117@users.noreply.github.com>
+Date:   Thu Jan 9 17:58:09 2025 +0800
+
+    Merge pull request #51 from Renkaali/main
+    
+    Submission Task
+
+[33mcommit fad7fdaf321ddef516b7f7b59059b68b07c7d13f[m
+Author: root <root@vmi2215814.contaboserver.net>
+Date:   Thu Jan 9 03:29:23 2025 -0600
+
+    Task 2 submission
+
+[33mcommit c61c106b1645a2a8df045ae7c2be69deb34eabff[m
+Merge: 0a0aa219 03513e56
+Author: Gerry Wang <85090540+gerrywang1117@users.noreply.github.com>
+Date:   Thu Jan 9 17:22:24 2025 +0800
+
+    Merge pull request #50 from yihuy87/main
+    
+    task submissions
+
+[33mcommit 85cab3008c39a5add3c6ae88f1199beb72f5dc30[m
+Author: root <root@vmi2215814.contaboserver.net>
+Date:   Thu Jan 9 03:17:35 2025 -0600
+
+    Task 1 submission
+
+[33mcommit 03513e56a4b40ad896f59cfabb19fe9a951297b8[m
+Author: yihuy87 <167419963+yihuy87@users.noreply.github.com>
+Date:   Thu Jan 9 16:04:09 2025 +0700
+
+    task10 submissions
+
+[33mcommit 13db0604426c759ea864453142f72b51d1e2f8ef[m
+Author: yihuy87 <167419963+yihuy87@users.noreply.github.com>
+Date:   Thu Jan 9 16:02:03 2025 +0700
+
+    task9 submissions
+
+[33mcommit daa80bda4bda2f2f5def769e168cd1c11e4439dd[m
+Author: yihuy87 <167419963+yihuy87@users.noreply.github.com>
+Date:   Thu Jan 9 15:59:43 2025 +0700
+
+    task8 submissions
+
+[33mcommit e3efd5b4383b9eca1ea2b238d1a128a04841bbf4[m
+Author: yihuy87 <167419963+yihuy87@users.noreply.github.com>
+Date:   Thu Jan 9 15:57:38 2025 +0700
+
+    task7 submissions
+
+[33mcommit 340a4ac138103e0e58055d4fd699e230dfd37244[m
+Author: yihuy87 <167419963+yihuy87@users.noreply.github.com>
+Date:   Thu Jan 9 15:55:08 2025 +0700
+
+    task6 submissions
+
+[33mcommit b294fd0d365c1bbe1eaf70f69d95ea94b2fdaa47[m
+Author: yihuy87 <167419963+yihuy87@users.noreply.github.com>
+Date:   Thu Jan 9 15:52:51 2025 +0700
+
+    task5 submissions
+
+[33mcommit 9af669bf91a621d6d9191083625ac5d0ef243f64[m
+Author: yihuy87 <167419963+yihuy87@users.noreply.github.com>
+Date:   Thu Jan 9 15:48:09 2025 +0700
+
+    task4 submissions
+
+[33mcommit 50cc832f12971f69a18e32533d7ec6cd2dd7445b[m
+Merge: 463e1891 d3702662
+Author: cuitme <gusmakreatif1@gmail.com>
+Date:   Thu Jan 9 15:39:55 2025 +0700
+
+    revision profile registration
+
+[33mcommit 0a0aa2190c4050f04a96efd90c43b081b78c600d[m
+Merge: d3702662 c5be4915
+Author: Gerry Wang <85090540+gerrywang1117@users.noreply.github.com>
+Date:   Thu Jan 9 16:29:43 2025 +0800
+
+    Merge pull request #46 from yihuy87/main
+    
+    task submissions
+
+[33mcommit d3702662b6b7e796f3cc93b082c4229bc9ea9da2[m
+Merge: 07abf489 b5814f26
+Author: Gerry Wang <85090540+gerrywang1117@users.noreply.github.com>
+Date:   Thu Jan 9 16:29:18 2025 +0800
+
+    Merge pull request #47 from cuitme/main
+    
+    Registration Submission
+
+[33mcommit 07abf489002535919b5af6f081e0b0bae933f72f[m
+Merge: d9fb95e0 b1ef4a0e
+Author: Gerry Wang <85090540+gerrywang1117@users.noreply.github.com>
+Date:   Thu Jan 9 16:28:23 2025 +0800
+
+    Merge pull request #48 from dlzvy/main
+    
+    add submissions Read.Me
+
+[33mcommit d9fb95e0d5cc07cf5807483e2c23ebabc06f3042[m
+Merge: 3ed5c0ea b9b4db46
+Author: Gerry Wang <85090540+gerrywang1117@users.noreply.github.com>
+Date:   Thu Jan 9 16:27:58 2025 +0800
+
+    Merge pull request #49 from gplsy/main
+    
+    register gplsy github
+
+[33mcommit 463e18913dee436f787cc6c7e568f8d68c325494[m
+Author: cuitme <gusmakreatif1@gmail.com>
+Date:   Thu Jan 9 15:24:14 2025 +0700
+
+    cuitmeairdrop submision task 10 revision
+
+[33mcommit b5814f268d8eb36cc8df6965814b6f3ad7d2b22a[m
+Merge: 84933499 3ed5c0ea
+Author: cuitme <163123353+cuitme@users.noreply.github.com>
+Date:   Thu Jan 9 15:18:01 2025 +0700
+
+    Merge branch 'ArweaveOasis:main' into main
+
+[33mcommit b9b4db462c567b0fe75a626b772d7c759f64839f[m
+Author: sayakomo <skfgood2@outlook.com>
+Date:   Thu Jan 9 15:05:28 2025 +0700
+
+    register gplsy github
+
+[33mcommit c5be4915c7a37b43119428d29862f204c9ec4065[m
+Author: yihuy87 <167419963+yihuy87@users.noreply.github.com>
+Date:   Thu Jan 9 14:52:38 2025 +0700
+
+    task3 submissions
+
+[33mcommit b1ef4a0e2066dfb1a935ef84506c538eb7af146f[m
+Author: dlzvy <brianjovandi@gmail.com>
+Date:   Thu Jan 9 07:48:04 2025 +0000
+
+    add submissions read.me
+
+[33mcommit 713500be786aface8b61094af8162bc6b1f346ac[m
+Author: yihuy87 <167419963+yihuy87@users.noreply.github.com>
+Date:   Thu Jan 9 14:44:11 2025 +0700
+
+    task2 submissions
+
+[33mcommit 3ed5c0ea1c0087286cb0f32615c2f53e505c5230[m
+Merge: 6cbe94e0 f29aaeff
+Author: Gerry Wang <85090540+gerrywang1117@users.noreply.github.com>
+Date:   Thu Jan 9 15:43:23 2025 +0800
+
+    Merge pull request #45 from yihuy87/main
+    
+    task submissions
+
+[33mcommit 84933499b49c8b48e3153de802520ea4a28ca32b[m
+Author: cuitme <gusmakreatif1@gmail.com>
+Date:   Thu Jan 9 14:41:11 2025 +0700
+
+    cuitmeairdrop submision task 10 address
+
+[33mcommit 2dafa2e46f5e8ccbac0dbcabaf3e689f6d634d83[m
+Author: cuitme <gusmakreatif1@gmail.com>
+Date:   Thu Jan 9 14:35:03 2025 +0700
+
+    cuitmeairdrop submision task 10
+
+[33mcommit f29aaeff619abc657a17e19f96b7e51871e8c69c[m
+Author: yihuy87 <167419963+yihuy87@users.noreply.github.com>
+Date:   Thu Jan 9 14:32:35 2025 +0700
+
+    task1 submissions
+
+[33mcommit 6cbe94e0d47cd66110c6cd430909a7976c104506[m
+Merge: 80f2017a b6816492
+Author: Gerry Wang <85090540+gerrywang1117@users.noreply.github.com>
+Date:   Thu Jan 9 15:24:09 2025 +0800
+
+    Merge pull request #43 from yihuy87/main
+    
+    yihuy87 submissions
+
+[33mcommit b68164922865487961eaf768ef05a2de1203c558[m
+Author: yihuy87 <167419963+yihuy87@users.noreply.github.com>
+Date:   Thu Jan 9 14:08:45 2025 +0700
+
+    yihuy87 submissions
+
+[33mcommit ef94679d0489b050f25c242afcbc9c3bde71e526[m
+Author: root <root@vmi2215814.contaboserver.net>
+Date:   Thu Jan 9 00:59:19 2025 -0600
+
+    Add new folder and file
+
+[33mcommit 80f2017ad2cd7dfd21c29863153f39a7e327a679[m
+Author: Gerry Wong <gerry@arweave.org>
+Date:   Thu Jan 9 14:31:40 2025 +0800
+
+    delete a folder
+
+[33mcommit 08753d3ea988540801db6f68f491246fbf4e590c[m
+Merge: a731401f 2e3543fe
+Author: Gerry Wang <85090540+gerrywang1117@users.noreply.github.com>
+Date:   Thu Jan 9 14:28:52 2025 +0800
+
+    Merge pull request #42 from satriatrader87/main
+    
+    task9 upload
+
+[33mcommit 2e3543fe96f67b20d99d0bc842bc345aa0116097[m
+Author: satriatrader87 <167980755+satriatrader87@users.noreply.github.com>
+Date:   Thu Jan 9 13:27:43 2025 +0700
+
+    task10 upload
+
+[33mcommit a0dc71b1547950236f9c9ce04da45f8316cf6b7a[m
+Author: satriatrader87 <167980755+satriatrader87@users.noreply.github.com>
+Date:   Thu Jan 9 13:25:06 2025 +0700
+
+    task9 upload
+
+[33mcommit a731401fa01adb9163143738f53ca6d72a1a4278[m
+Merge: f472b49a 1349b8b1
+Author: Gerry Wang <85090540+gerrywang1117@users.noreply.github.com>
+Date:   Thu Jan 9 14:24:11 2025 +0800
+
+    Merge pull request #41 from satriatrader87/main
+    
+    task8 upload
+
+[33mcommit 1349b8b18c57c9f1f12504921f896ac7482f791e[m
+Author: satriatrader87 <167980755+satriatrader87@users.noreply.github.com>
+Date:   Thu Jan 9 13:21:59 2025 +0700
+
+    task8 upload
+
+[33mcommit f472b49a8341ca2447046521b335ae8d8484e009[m
+Merge: ae10d573 5f9c5413
+Author: Gerry Wang <85090540+gerrywang1117@users.noreply.github.com>
+Date:   Thu Jan 9 14:21:19 2025 +0800
+
+    Merge pull request #40 from Renkaali/patch-2
+    
+    Delete submissions/renkaali
+
+[33mcommit ae10d573d2e4a594c8e10932493b899a204d9bba[m
+Author: Gerry Wang <85090540+gerrywang1117@users.noreply.github.com>
+Date:   Thu Jan 9 14:20:52 2025 +0800
+
+    Delete submissions/renkaali
+
+[33mcommit 5f9c541323bae77a6e13c683b5e459ee54191819[m
+Author: Renka Ali <103181885+Renkaali@users.noreply.github.com>
+Date:   Thu Jan 9 13:20:23 2025 +0700
+
+    Delete submissions/renkaali
+
+[33mcommit 9b109c95c2313b839d9975213b85bb0d4931e20d[m
+Merge: 12cd4329 4c7265cd
+Author: Gerry Wang <85090540+gerrywang1117@users.noreply.github.com>
+Date:   Thu Jan 9 14:15:36 2025 +0800
+
+    Merge pull request #39 from Jaks02/main
+    
+    Registration
+
+[33mcommit 12cd43299a14d1fdd96b38986183ac14c8db0638[m
+Merge: b16f65e9 b55dabdf
+Author: Gerry Wang <85090540+gerrywang1117@users.noreply.github.com>
+Date:   Thu Jan 9 14:15:15 2025 +0800
+
+    Merge pull request #38 from Renkaali/patch-1
+    
+    Create renkaali
+
+[33mcommit b16f65e95f46da20bd6c82b06dc667b722bfaf91[m
+Merge: f76ef389 2b7bc203
+Author: Gerry Wang <85090540+gerrywang1117@users.noreply.github.com>
+Date:   Thu Jan 9 14:13:58 2025 +0800
+
+    Merge pull request #35 from satriatrader87/main
+    
+    task6 upload
+
+[33mcommit f76ef38936754e504891f4fdd1f0462f22ed1fbe[m
+Merge: 6edd76ce 383e25e2
+Author: Gerry Wang <85090540+gerrywang1117@users.noreply.github.com>
+Date:   Thu Jan 9 14:13:31 2025 +0800
+
+    Merge pull request #36 from xMevan/main
+    
+    challenge1 submissions
+
+[33mcommit 6edd76ce5d9dad72afaf38fb955a2e3962daf58f[m
+Merge: 81ad3d07 f7d64b4c
+Author: Gerry Wang <85090540+gerrywang1117@users.noreply.github.com>
+Date:   Thu Jan 9 14:12:17 2025 +0800
+
+    Merge pull request #37 from adryan089/main
+    
+    skydashnet submissions
+
+[33mcommit b55dabdfe609bfa6e46ebb866b40a5efc41c8204[m
+Author: Renka Ali <103181885+Renkaali@users.noreply.github.com>
+Date:   Thu Jan 9 13:01:04 2025 +0700
+
+    Create renkaali
+
+[33mcommit 4c7265cdce6dd65a7212a3e6354a1b25a687a48b[m
+Author: lulzech <jaksui02@gmail.com>
+Date:   Thu Jan 9 05:23:29 2025 +0000
+
+    Iam Lulzech, hello everyone
+
+[33mcommit f7d64b4c75061d1211fc97ef79928ed40358d698[m
+Author: adryan089 <masmarko117@gmail.com>
+Date:   Thu Jan 9 12:17:00 2025 +0700
+
+    initial-commmit
+
+[33mcommit 2b7bc2037b8a717ec647b04f97ad114f8eec1040[m
+Author: satriatrader87 <167980755+satriatrader87@users.noreply.github.com>
+Date:   Thu Jan 9 11:38:00 2025 +0700
+
+    Add files via upload
+
+[33mcommit 383e25e250d856dae6aa1b116397fef4380dbd14[m
+Author: xMevan <irvaaanfauzi1@gmail.com>
+Date:   Thu Jan 9 11:23:01 2025 +0700
+
+    challenge1 submissions
+
+[33mcommit ba24fb10032ef62649ac0cb4e40c8e4cc4294ee4[m
+Author: satriatrader87 <167980755+satriatrader87@users.noreply.github.com>
+Date:   Thu Jan 9 11:02:56 2025 +0700
+
+    Add files via upload
+
+[33mcommit 81ad3d079d9d6e0e628f28885878b66f5155bf5c[m
+Merge: 875c9e27 f8cd347b
+Author: Gerry Wang <85090540+gerrywang1117@users.noreply.github.com>
+Date:   Thu Jan 9 11:56:01 2025 +0800
+
+    Merge pull request #33 from satriatrader87/main
+    
+    task5 upload
+
+[33mcommit 91ba701c1a06cee7becfb709314bc96b3bb474df[m
+Author: adryan089 <masmarko117@gmail.com>
+Date:   Thu Jan 9 10:47:31 2025 +0700
+
+    initial-commmit
+
+[33mcommit f8cd347b7aa429698b00176a3b27b6118db92ffb[m
+Author: satriatrader87 <167980755+satriatrader87@users.noreply.github.com>
+Date:   Thu Jan 9 10:45:07 2025 +0700
+
+    Add files via upload
+
+[33mcommit 875c9e278f8c7828b50e620803aadcc9d558bc74[m
+Merge: 5b7a2f40 bd381fe1
+Author: Gerry Wang <85090540+gerrywang1117@users.noreply.github.com>
+Date:   Thu Jan 9 11:14:19 2025 +0800
+
+    Merge pull request #32 from satriatrader87/main
+    
+    task4 upload
+
+[33mcommit bd381fe188b6dce4f1950dfa971a9b960ae08723[m
+Author: satriatrader87 <167980755+satriatrader87@users.noreply.github.com>
+Date:   Thu Jan 9 10:11:40 2025 +0700
+
+    Add files via upload
+
+[33mcommit 5b7a2f40f0f76b073da8a9cb0577233a6186cb9d[m
+Merge: c8f4b95f adddf624
+Author: Gerry Wang <85090540+gerrywang1117@users.noreply.github.com>
+Date:   Thu Jan 9 11:06:45 2025 +0800
+
+    Merge pull request #31 from achwir/main
+    
+    submissions achwir
+
+[33mcommit adddf624fc5530c5e99b779a9429e6efa6ab01df[m
+Author: achwir <achmadwirra@gmail.com>
+Date:   Thu Jan 9 10:59:31 2025 +0800
+
+    Update task10
+
+[33mcommit c8f4b95fc09773d36a3feb6941e83545ca5f93ef[m
+Merge: f229bffe 8e3f76b8
+Author: Gerry Wang <85090540+gerrywang1117@users.noreply.github.com>
+Date:   Thu Jan 9 10:56:25 2025 +0800
+
+    Merge pull request #30 from satriatrader87/main
+    
+    task3 upload
+
+[33mcommit 8e3f76b81b7295e77a531a3b867221a35fae41c8[m
+Author: satriatrader87 <167980755+satriatrader87@users.noreply.github.com>
+Date:   Thu Jan 9 09:53:14 2025 +0700
+
+    Add files via upload
+
+[33mcommit 4dcaeb404ebb722100bdb62bf6bae43244f0f9d8[m
+Author: achwir <achmadwirra@gmail.com>
+Date:   Thu Jan 9 10:49:24 2025 +0800
+
+    Update task9
+
+[33mcommit 5043d69f012aa67348b05cb72bff9dcd28a875ca[m
+Author: achwir <achmadwirra@gmail.com>
+Date:   Thu Jan 9 10:46:42 2025 +0800
+
+    Update task9
+
+[33mcommit f229bffe60c35bd6cdddfda29abbe172bb3df70a[m
+Merge: 380ca37b 346632cc
+Author: Gerry Wang <85090540+gerrywang1117@users.noreply.github.com>
+Date:   Thu Jan 9 10:41:33 2025 +0800
+
+    Merge pull request #18 from achwir/main
+    
+    achwir submission
+
+[33mcommit 346632cc5abe03fb49e20478935a75d89055ce17[m
+Author: achwir <achmadwirra@gmail.com>
+Date:   Thu Jan 9 10:36:34 2025 +0800
+
+    Update task8
+
+[33mcommit 850cf85baf951cd2e1affa3559d6baa8353c22a0[m
+Author: achwir <achmadwirra@gmail.com>
+Date:   Thu Jan 9 10:33:34 2025 +0800
+
+    Update task5
+
+[33mcommit 8248bb3b8fd92a5588cd768ff65192e98c80dedc[m
+Author: achwir <achmadwirra@gmail.com>
+Date:   Thu Jan 9 10:32:16 2025 +0800
+
+    Update task7
+
+[33mcommit 1d953f9aab89163a389d5c07c3de44874c0917e4[m
+Author: achwir <achmadwirra@gmail.com>
+Date:   Thu Jan 9 10:29:19 2025 +0800
+
+    Update task6
+
+[33mcommit 380ca37ba4c823439612740a0a161855d4378d05[m
+Merge: 7e5ab072 149e797d
+Author: Gerry Wang <85090540+gerrywang1117@users.noreply.github.com>
+Date:   Thu Jan 9 10:20:41 2025 +0800
+
+    Merge pull request #28 from satriatrader87/main
+    
+    Add files via upload
+
+[33mcommit 734a4dd8bdc6ba50126ff90e1db9072cc90ed18b[m
+Author: achwir <achmadwirra@gmail.com>
+Date:   Thu Jan 9 10:19:53 2025 +0800
+
+    Update task4
+
+[33mcommit 3bba62b9757498feed1a0d0e395f5eb21c05f80e[m
+Author: achwir <achmadwirra@gmail.com>
+Date:   Thu Jan 9 10:05:56 2025 +0800
+
+    Update readme.me to initial mode
+
+[33mcommit c60fdcc5eb59199e447e14885fd23a11bef3770c[m
+Author: achwir <achmadwirra@gmail.com>
+Date:   Thu Jan 9 10:01:04 2025 +0800
+
+    Update
+
+[33mcommit ff4eecc3329cf72ad7263a4e35667b115ae63d2c[m
+Author: achwir <achmadwirra@gmail.com>
+Date:   Thu Jan 9 09:59:31 2025 +0800
+
+    Update task3
+
+[33mcommit 149e797dc9c125da23fb6d9aeab108ca8a71f600[m
+Author: satriatrader87 <167980755+satriatrader87@users.noreply.github.com>
+Date:   Thu Jan 9 08:44:21 2025 +0700
+
+    Add files via upload
+
+[33mcommit 7e5ab07218745a79df892a19a7a9ea0de7b8f75a[m
+Merge: dc0f5bdf b3ce291c
+Author: Gerry Wang <85090540+gerrywang1117@users.noreply.github.com>
+Date:   Thu Jan 9 09:19:48 2025 +0800
+
+    Merge pull request #26 from satriatrader87/main
+    
+    task1 upload satriatrader87
+
+[33mcommit dc0f5bdf94792a5356ccf45c376959f587168d38[m
+Merge: 043b1d6a 25e53413
+Author: Gerry Wang <85090540+gerrywang1117@users.noreply.github.com>
+Date:   Thu Jan 9 09:18:59 2025 +0800
+
+    Merge pull request #27 from gerrywang1117/main
+    
+    prize update
+
+[33mcommit 25e5341305b75fe1f7095ebcdb20c4b5d4f5daa5[m
+Author: Gerry Wong <gerry@arweave.org>
+Date:   Thu Jan 9 09:18:19 2025 +0800
+
+    update
+
+[33mcommit e771585a6b6776ca2d202f38042fce275f17f0e5[m
+Author: Gerry Wong <gerry@arweave.org>
+Date:   Thu Jan 9 09:17:29 2025 +0800
+
+    prize update
+
+[33mcommit b3ce291c0841a9584c0bfb74a60849daa964f10a[m
+Author: satriatrader87 <167980755+satriatrader87@users.noreply.github.com>
+Date:   Thu Jan 9 08:15:39 2025 +0700
+
+    Add files via upload
+
+[33mcommit 043b1d6a96f903db88b0d8ba6fb12c841830b59d[m
+Merge: 66722b92 634acd94
+Author: Gerry Wang <85090540+gerrywang1117@users.noreply.github.com>
+Date:   Thu Jan 9 08:50:12 2025 +0800
+
+    Merge pull request #16 from qnbh123/main
+    
+    qnbh123  submissions
+
+[33mcommit 66722b92aea96b30d231d678dbf99db110c8c6e6[m
+Merge: 27e4dea5 91029d67
+Author: Gerry Wang <85090540+gerrywang1117@users.noreply.github.com>
+Date:   Thu Jan 9 08:49:31 2025 +0800
+
+    Merge pull request #17 from sayakomo/main
+    
+    sayakomo submissions
+
+[33mcommit 27e4dea567bbd101be449a61f8467c9ebcaadb50[m
+Merge: ac96f92f 492d6db6
+Author: Gerry Wang <85090540+gerrywang1117@users.noreply.github.com>
+Date:   Thu Jan 9 08:41:54 2025 +0800
+
+    Merge pull request #19 from xMevan/main
+    
+    xMevan submissions
+
+[33mcommit ac96f92f4d505685e6e44891d5d313243331959b[m
+Merge: 379e3a9c 3f7628ed
+Author: Gerry Wang <85090540+gerrywang1117@users.noreply.github.com>
+Date:   Thu Jan 9 08:41:00 2025 +0800
+
+    Merge pull request #20 from ganang1234/main
+    
+    ganang1234.md
+
+[33mcommit 379e3a9cdb3096d54d1ae345799c4647964d9f5a[m
+Merge: 4144d44c 7fd7e25e
+Author: Gerry Wang <85090540+gerrywang1117@users.noreply.github.com>
+Date:   Thu Jan 9 08:36:26 2025 +0800
+
+    Merge pull request #25 from satriatrader87/main
+    
+    "Initial submission by satriatrader87"
+
+[33mcommit 4144d44c68589563fdb64b414ac1495d47738789[m
+Merge: d4db43a4 a6e2deae
+Author: Gerry Wang <85090540+gerrywang1117@users.noreply.github.com>
+Date:   Thu Jan 9 08:35:36 2025 +0800
+
+    Merge pull request #21 from jordi-stack/task1-submission
+    
+    jordi-stack submissions
+
+[33mcommit d4db43a4f34d9bec03dae481f7c7732d92f0cba2[m
+Merge: 95c72ef2 1ffaf6d1
+Author: Gerry Wang <85090540+gerrywang1117@users.noreply.github.com>
+Date:   Thu Jan 9 08:31:41 2025 +0800
+
+    Merge pull request #24 from asriqul/main
+    
+    Github Registration Submission
+
+[33mcommit 7fd7e25e7c2fbaf2420a869762c53181761f1f6f[m
+Author: satriatrader87 <167980755+satriatrader87@users.noreply.github.com>
+Date:   Thu Jan 9 00:28:50 2025 +0000
+
+    "Initial submission by YourName"
+
+[33mcommit 1ffaf6d135e6e51012de7533560bc9ee4c8cbfb0[m
+Author: asriqul <didipbnc11@gmail.com>
+Date:   Thu Jan 9 07:11:37 2025 +0700
+
+    Github Registration Submission
+
+[33mcommit 492d6db6bc474831a4602a03f0bfbdef0c851b75[m
+Author: xMevan <irvaaanfauzi1@gmail.com>
+Date:   Thu Jan 9 05:17:36 2025 +0700
+
+    task10 submission
+
+[33mcommit 4767762452c199ea0b4e2717df417a27366dbc23[m
+Author: xMevan <irvaaanfauzi1@gmail.com>
+Date:   Thu Jan 9 05:08:29 2025 +0700
+
+    task9 submission
+
+[33mcommit fe08252b62fefb8fbfacb61c9bd8a248f9cb77a3[m
+Author: xMevan <irvaaanfauzi1@gmail.com>
+Date:   Thu Jan 9 04:58:52 2025 +0700
+
+    task8 submission
+
+[33mcommit a6e2deae7e2a9f8ce48498795026e98ab7a3f4a0[m
+Author: jordi <anjasroket@gmail.com>
+Date:   Thu Jan 9 04:49:01 2025 +0700
+
+    add: task 10 submission
+
+[33mcommit b82850fa87a8fdd9cac204c485153b8af4b6c7ec[m
+Author: jordi <anjasroket@gmail.com>
+Date:   Thu Jan 9 04:47:48 2025 +0700
+
+    add: task 9 submission
+
+[33mcommit 38474af23104c3ad24bfe78cfbcb85881343a971[m
+Author: jordi <anjasroket@gmail.com>
+Date:   Thu Jan 9 04:47:03 2025 +0700
+
+    add: task 8 submission
+
+[33mcommit cff702d6571b9a0cac3d7acaff506ef5e63cd992[m
+Author: jordi <anjasroket@gmail.com>
+Date:   Thu Jan 9 04:46:04 2025 +0700
+
+    add: task 7 submission
+
+[33mcommit 5b8ca8607707e9adf674fbf42047514a8b433404[m
+Author: jordi <anjasroket@gmail.com>
+Date:   Thu Jan 9 04:44:27 2025 +0700
+
+    add: task 5 submission
+
+[33mcommit 1f05f9ada382b2f58866c70cc0380a9f41257298[m
+Author: jordi <anjasroket@gmail.com>
+Date:   Thu Jan 9 04:43:55 2025 +0700
+
+    add: task 5 submission
+
+[33mcommit 53e6af638c901e2a9124928e6ef4843249485c1f[m
+Author: xMevan <irvaaanfauzi1@gmail.com>
+Date:   Thu Jan 9 04:43:08 2025 +0700
+
+    task7 submission
+
+[33mcommit 70b0c1c3ebb3067feb19671519698ba39facc1a7[m
+Author: jordi <anjasroket@gmail.com>
+Date:   Thu Jan 9 04:42:09 2025 +0700
+
+    add: task 4 submission
+
+[33mcommit e79b6399017ff74f129d3b18241da25e33089bb2[m
+Author: jordi <anjasroket@gmail.com>
+Date:   Thu Jan 9 04:37:48 2025 +0700
+
+    add: task 3 submission
+
+[33mcommit 45791b9a5375411c19c0c279749a12964b19eb0a[m
+Author: xMevan <irvaaanfauzi1@gmail.com>
+Date:   Thu Jan 9 04:36:11 2025 +0700
+
+    task6 submission
+
+[33mcommit 2dfa54372408fdc0f4db67d4f89c09b3c4af3102[m
+Author: jordi <anjasroket@gmail.com>
+Date:   Thu Jan 9 04:00:18 2025 +0700
+
+    Submit task2 for jordi-stack
+
+[33mcommit f7110ca3b8f78d5a87ed329c35d9914ae9c93ecf[m
+Author: achwir <achmadwirra@gmail.com>
+Date:   Thu Jan 9 04:59:03 2025 +0800
+
+    Update task2
+
+[33mcommit be4ee02595955bb5ffa94e9d0c4d85b95b8dc696[m
+Author: jordi <anjasroket@gmail.com>
+Date:   Thu Jan 9 03:52:29 2025 +0700
+
+    submissions jordi-stack
+
+[33mcommit 3f7628ed81a516024633266c5462af189d6219c9[m
+Author: ganang1234 <ganang120497@gmail.com>
+Date:   Thu Jan 9 03:29:54 2025 +0700
+
+    My Personal Informatioin
+
+[33mcommit 049da541c7c939338762f3f91c239ecd75725b39[m
+Author: achwir <achmadwirra@gmail.com>
+Date:   Thu Jan 9 04:28:08 2025 +0800
+
+    Update task1
+
+[33mcommit 82adf66ccc45d5d78fdba3a096396c194b77246a[m
+Author: xMevan <irvaaanfauzi1@gmail.com>
+Date:   Thu Jan 9 03:18:03 2025 +0700
+
+    task5 submission
+
+[33mcommit f5302b62af0bc35e769fd3d37d2cf30de26a46a8[m
+Author: xMevan <irvaaanfauzi1@gmail.com>
+Date:   Thu Jan 9 03:10:52 2025 +0700
+
+    task4 submission
+
+[33mcommit 3914b03a7ef4255bd6d38117e85fb2797c789c0c[m
+Author: xMevan <irvaaanfauzi1@gmail.com>
+Date:   Thu Jan 9 03:02:31 2025 +0700
+
+    task3 submission
+
+[33mcommit 1a6254a63cb64647764460e8ef2f873ef057ed6a[m
+Author: xMevan <irvaaanfauzi1@gmail.com>
+Date:   Thu Jan 9 02:40:24 2025 +0700
+
+    task2 submission
+
+[33mcommit 716fb9da7d26b8cc4da6db47cff077fcebee627a[m
+Author: xMevan <irvaaanfauzi1@gmail.com>
+Date:   Thu Jan 9 02:21:30 2025 +0700
+
+    task1 submission
+
+[33mcommit 16bdecb5878cfb8766be9953050d45821f4b8517[m
+Author: achwir <achmadwirra@gmail.com>
+Date:   Thu Jan 9 03:08:03 2025 +0800
+
+    Update achwir.md
+
+[33mcommit aa2b796ae25015fd57499d3511fb24993765ed3e[m
+Author: xMevan <irvaaanfauzi1@gmail.com>
+Date:   Thu Jan 9 01:59:12 2025 +0700
+
+    xMevan github registration
+
+[33mcommit 66581c18178fa155f9b2fb2724d62c25093340f7[m
+Author: achwir <achmadwirra@gmail.com>
+Date:   Thu Jan 9 02:48:02 2025 +0800
+
+    Description of changes
+
+[33mcommit 91029d6745c0cad9fc781248a69845becf33e828[m
+Author: sayakomo <skfgood2@outlook.com>
+Date:   Thu Jan 9 01:21:10 2025 +0700
+
+    sayakomo submissions
+
+[33mcommit 634acd9492548c44f5a861760b82094cf6919795[m
+Author: ysbear <xiangyuwei123@gmail.com>
+Date:   Wed Jan 8 21:49:28 2025 +0800
+
+    Added qnbh123 folder and its contents
+
+[33mcommit 95c72ef29305e74133028eb50c80c8cdd28255c3[m
+Merge: 7761f7d8 efd2e363
+Author: Gerry Wang <85090540+gerrywang1117@users.noreply.github.com>
+Date:   Wed Jan 8 16:17:39 2025 +0800
+
+    Merge pull request #15 from gerrywang1117/main
+    
+    readme update
+
+[33mcommit efd2e3639e4712615cc0447599f96dd6a53e5056[m
+Author: Gerry Wong <gerry@arweave.org>
+Date:   Wed Jan 8 16:17:03 2025 +0800
+
+    readme update
+
+[33mcommit 7761f7d88865012da5fd03254f3bf0e5b156c371[m
+Merge: ba2a5051 c933a32c
+Author: Gerry Wang <85090540+gerrywang1117@users.noreply.github.com>
+Date:   Wed Jan 8 16:14:32 2025 +0800
+
+    Merge pull request #14 from gerrywang1117/main
+    
+    readme update
+
+[33mcommit c933a32c5271c8eccbc9756e9e3170b1a84a295a[m
+Author: Gerry Wong <gerry@arweave.org>
+Date:   Wed Jan 8 16:13:48 2025 +0800
+
+    readme update
+
+[33mcommit ba2a5051e0a49d4b083a77ea5a87480f914b1285[m
+Merge: 0943e6c5 0339365b
+Author: Gerry Wang <85090540+gerrywang1117@users.noreply.github.com>
+Date:   Wed Jan 8 15:15:10 2025 +0800
+
+    Merge pull request #13 from gerrywang1117/main
+    
+    update
+
+[33mcommit 0339365b55cc35d72b6885b2ae5cb2db2409e479[m
+Author: Gerry Wong <gerry@arweave.org>
+Date:   Wed Jan 8 15:14:35 2025 +0800
+
+    update
+
+[33mcommit 0943e6c57393a3612b951ed5955138042fb420cf[m
+Merge: f19f85af d0fbc8e2
+Author: Gerry Wang <85090540+gerrywang1117@users.noreply.github.com>
+Date:   Wed Jan 8 14:48:37 2025 +0800
+
+    Merge pull request #12 from gerrywang1117/main
+    
+    update
+
+[33mcommit d0fbc8e22b585a70a0c04f78afbc764528b08fda[m
+Merge: 502cde1a f19f85af
+Author: Gerry Wang <85090540+gerrywang1117@users.noreply.github.com>
+Date:   Wed Jan 8 14:47:56 2025 +0800
+
+    Merge branch 'ArweaveOasis:main' into main
+
+[33mcommit 502cde1a0821eb27561b9b4bfe9f48706aed3f21[m
+Author: Gerry Wong <gerry@arweave.org>
+Date:   Wed Jan 8 14:47:45 2025 +0800
+
+    update
+
+[33mcommit 7c0a96db14e1ed1ab5491e37436b892d314225a0[m
+Author: Gerry Wong <gerry@arweave.org>
+Date:   Wed Jan 8 14:43:48 2025 +0800
+
+    discord link
+
+[33mcommit f19f85af7fdd50e66d7a03c004363788379e8861[m
+Merge: e7b414c7 81777037
+Author: Gerry Wang <85090540+gerrywang1117@users.noreply.github.com>
+Date:   Wed Jan 8 14:42:14 2025 +0800
+
+    Merge pull request #11 from gerrywang1117/main
+    
+    readme update
+
+[33mcommit 81777037b23cf4f8839413a7edf34dbc68ac0d2d[m
+Author: Gerry Wong <gerry@arweave.org>
+Date:   Wed Jan 8 14:41:09 2025 +0800
+
+    readme update
+
+[33mcommit e7b414c70f83adb93e06c2e893c2f1da5843cd24[m
+Merge: 72b09579 a75c9a8c
+Author: Gerry Wang <85090540+gerrywang1117@users.noreply.github.com>
+Date:   Wed Jan 8 14:13:47 2025 +0800
+
+    Merge pull request #10 from gerrywang1117/main
+    
+    tasks update
+
+[33mcommit a75c9a8c14b268778de7740f54faafd8d2c9bb60[m
+Author: Gerry Wong <gerry@arweave.org>
+Date:   Wed Jan 8 14:12:16 2025 +0800
+
+    update
+
+[33mcommit e105beccaba0bd0690cba37fc7412509d216b5bc[m
+Author: Gerry Wong <gerry@arweave.org>
+Date:   Wed Jan 8 14:10:42 2025 +0800
+
+    tasks update
+
+[33mcommit 900b4ae2eba09068144a387b4b0b7c3f10aae9d2[m
+Author: Gerry Wong <gerry@arweave.org>
+Date:   Wed Jan 8 13:55:54 2025 +0800
+
+    task3
+
+[33mcommit 72b095792282d9b73c06562cf004a27ff521661d[m
+Author: Gerry Wong <gerry@arweave.org>
+Date:   Wed Jan 8 11:03:43 2025 +0800
+
+    update
+
+[33mcommit dfef36af6ba0edd008d0ec930bc542d505a0fb49[m
+Merge: b92a5c1e 60d06c33
+Author: Gerry Wang <85090540+gerrywang1117@users.noreply.github.com>
+Date:   Wed Jan 8 10:33:14 2025 +0800
+
+    Merge pull request #9 from elliotsayes/comments
+    
+    Comments
+
+[33mcommit 60d06c33206e19778a7ceda60f51b7ce8a1c40b6[m
+Author: Elliot Sayes <elliot@sayes.cloud>
+Date:   Wed Jan 8 00:21:54 2025 +0800
+
+    Fix git comment
+
+[33mcommit 1c4c2eb8c2cb609d75afbefaf444d9aca1113bb0[m
+Author: Elliot Sayes <elliot@sayes.cloud>
+Date:   Wed Jan 8 00:17:42 2025 +0800
+
+    Comments:
+    
+    - The diagram is cool but very unnecessary
+    - `How to Submitting a PR on Github` -- It's unlikely they know how to use git clone, commit etc but not submit a PR
+    - `Quotes` for unique concepts /commands etc, **Bold** to draw attention
+    - Empty spaces (`<br>`) look weird for developers
+    - Check out https://marketplace.visualstudio.com/items?itemName=DavidAnson.vscode-markdownlint for proper markdown formatting
+    
+    - Preparation section: separate out which are needed before hand & which are just useful links/resources
+    
+    - Maybe start with something more tangible at the very beginning to get people interested? Like using ArDrive for example.
+    - PRs are public, can you stop people copying easily?
+    
+    - Using git guide is really good :)
+
+[33mcommit b92a5c1eab652f4d4ca7c893301a5ede2bd55afc[m
+Merge: 357950db 12f94fb8
+Author: Gerry Wang <85090540+gerrywang1117@users.noreply.github.com>
+Date:   Tue Jan 7 14:49:27 2025 +0800
+
+    Merge pull request #8 from gerrywang1117/main
+    
+    challenge 4
+
+[33mcommit 12f94fb8de84ee5b5a00e9932ba49a18bd95cd1d[m
+Merge: 584137f6 357950db
+Author: Gerry Wang <85090540+gerrywang1117@users.noreply.github.com>
+Date:   Tue Jan 7 14:48:06 2025 +0800
+
+    Merge branch 'ArweaveOasis:main' into main
+
+[33mcommit 584137f67f816c996036d063689da5a6edafe958[m
+Author: Gerry Wong <gerry@arweave.org>
+Date:   Tue Jan 7 14:47:37 2025 +0800
+
+    challenge 4 update
+
+[33mcommit 357950dbd4ff2b8f6a88ddeada35734e4a2b330e[m
+Merge: 935b6d72 4ef651bb
+Author: Gerry Wang <85090540+gerrywang1117@users.noreply.github.com>
+Date:   Tue Jan 7 14:34:45 2025 +0800
+
+    Merge pull request #7 from gerrywang1117/main
+    
+    cancel task files
+
+[33mcommit 4ef651bbe956a06f5d0e46975cb8b99ee9d2cc2e[m
+Merge: dc0fa1b4 4edd681f
+Author: Gerry Wong <gerry@arweave.org>
+Date:   Tue Jan 7 14:32:22 2025 +0800
+
+    Merge branch 'main' of https://github.com/gerrywang1117/Arweave-Academy
+
+[33mcommit dc0fa1b450c8799ee334b0b7cf585665303ca993[m
+Author: Gerry Wong <gerry@arweave.org>
+Date:   Tue Jan 7 14:31:35 2025 +0800
+
+    update
+
+[33mcommit 4edd681f1ddfcc5993ccfcde80fbfa5fe2ab9e6b[m
+Merge: 9c4e2247 935b6d72
+Author: Gerry Wang <85090540+gerrywang1117@users.noreply.github.com>
+Date:   Tue Jan 7 14:29:18 2025 +0800
+
+    Merge branch 'ArweaveOasis:main' into main
+
+[33mcommit 935b6d721acf2ed0beb4bff1e668450719ea4bac[m
+Author: Gerry Wong <gerry@arweave.org>
+Date:   Tue Jan 7 14:24:15 2025 +0800
+
+    challenge 3 update
+
+[33mcommit 52aa976e2c722588e8626f9e0bbda8fda58640d3[m
+Author: Gerry Wong <gerry@arweave.org>
+Date:   Tue Jan 7 14:22:08 2025 +0800
+
+    challange 2 update
+
+[33mcommit 7036fa848c16b20c0516bb896934ed651d142ef4[m
+Author: Gerry Wong <gerry@arweave.org>
+Date:   Tue Jan 7 14:20:20 2025 +0800
+
+    update
+
+[33mcommit 9c4e2247dcc5b730bf3758cc7e6df61d6573d463[m
+Merge: 84a5b9b4 9b005e1d
+Author: Gerry Wang <85090540+gerrywang1117@users.noreply.github.com>
+Date:   Tue Jan 7 11:52:27 2025 +0800
+
+    Merge branch 'ArweaveOasis:main' into main
+
+[33mcommit 84a5b9b455ab9f78deefe7c172116a683dcf03a3[m
+Author: Gerry Wong <gerry@arweave.org>
+Date:   Mon Jan 6 21:12:50 2025 +0800
+
+    -
+
+[33mcommit fc8d119015c7427a931497d77fd8b4428de9b7bc[m
+Author: Gerry Wong <gerry@arweave.org>
+Date:   Mon Jan 6 18:07:44 2025 +0800
+
+    task answer update
+
+[33mcommit 9b005e1d2e619e1a7eb34b7b0de36dcb379884a5[m
+Author: Gerry Wong <gerry@arweave.org>
+Date:   Mon Jan 6 11:00:51 2025 +0800
+
+    update
+
+[33mcommit 8e76300bd801784613ff5c2d9823d1254be97f94[m
+Author: Gerry Wong <gerry@arweave.org>
+Date:   Mon Jan 6 10:39:20 2025 +0800
+
+    update
+
+[33mcommit 976781a252f81fe9fd19bafcc1b635878323edb0[m
+Author: Gerry Wong <gerry@arweave.org>
+Date:   Mon Jan 6 10:19:10 2025 +0800
+
+    Challenge 1 update
+
+[33mcommit 84f2249e07387e6d3d9210451c48251988c3cd69[m
+Author: Gerry Wong <gerry@arweave.org>
+Date:   Mon Jan 6 10:10:47 2025 +0800
+
+    Table update
+
+[33mcommit 233b9043e1e3c16a2e59537ff353694d5565d0bb[m
+Merge: ed342e69 7022c7ab
+Author: Gerry Wang <85090540+gerrywang1117@users.noreply.github.com>
+Date:   Mon Jan 6 10:06:24 2025 +0800
+
+    Merge pull request #6 from gerrywang1117/main
+    
+    README update
+
+[33mcommit 7022c7abf2d3da6b33156414613f9338abf1881f[m
+Merge: e9f9a378 efb5db61
+Author: Gerry Wong <gerry@arweave.org>
+Date:   Mon Jan 6 10:05:12 2025 +0800
+
+    Merge branch 'main' of https://github.com/gerrywang1117/Arweave-Academy
+
+[33mcommit e9f9a3784972e31d473855747b9514104a28f9eb[m
+Author: Gerry Wong <gerry@arweave.org>
+Date:   Mon Jan 6 10:03:20 2025 +0800
+
+    update
+
+[33mcommit efb5db61877356051c80bd91f9c01a9d9e73ac7e[m
+Merge: d0d6869d ed342e69
+Author: Gerry Wang <85090540+gerrywang1117@users.noreply.github.com>
+Date:   Mon Jan 6 09:54:18 2025 +0800
+
+    Merge branch 'ArweaveOasis:main' into main
+
+[33mcommit d0d6869d7b8a015ee582a22bfa7ae0283d53218f[m
+Merge: 6b5a797c ccd86ab6
+Author: Gerry Wong <gerry@arweave.org>
+Date:   Mon Jan 6 09:53:34 2025 +0800
+
+    Remove .DS_Store
+
+[33mcommit 6b5a797c746c6a7d13aa9b8136c8937165ce1d5f[m
+Author: Gerry Wong <gerry@arweave.org>
+Date:   Mon Jan 6 09:50:49 2025 +0800
+
+    Resolve merge conflicts
+
+[33mcommit ed342e695ae4d3f27100f9d87654be0fd7578464[m
+Merge: 602ee386 ccd86ab6
+Author: Gerry Wang <85090540+gerrywang1117@users.noreply.github.com>
+Date:   Mon Jan 6 09:34:24 2025 +0800
+
+    Merge pull request #5 from gerrywang1117/main
+    
+    README update
+
+[33mcommit ccd86ab6ae33f8b66da1b940c50477dac98c9fdf[m
+Author: Gerry Wong <gerry@arweave.org>
+Date:   Sun Jan 5 22:07:53 2025 +0800
+
+    update
+
+[33mcommit 76cfae52b012ec5727e930cebf3f7337726a307f[m
+Author: Gerry Wong <gerry@arweave.org>
+Date:   Sun Jan 5 22:01:35 2025 +0800
+
+    more content
+
+[33mcommit a99898936b782562ed760712986eb7f633e9c25c[m
+Author: Gerry Wong <gerry@arweave.org>
+Date:   Sun Jan 5 21:10:55 2025 +0800
+
+    update
+
+[33mcommit f49592a2d9f2bf61ca84cdd9757b864f6120909c[m
+Author: Gerry Wong <gerry@arweave.org>
+Date:   Sun Jan 5 20:59:54 2025 +0800
+
+    update
+
+[33mcommit 2c8e14abf1177f6c2a3019a1985a09ffad973244[m
+Author: Gerry Wong <gerry@arweave.org>
+Date:   Sun Jan 5 20:54:04 2025 +0800
+
+    update
+
+[33mcommit 23a06429b7f16e5f1e81e0f2777d836cc300f3a2[m
+Author: Gerry Wong <gerry@arweave.org>
+Date:   Sun Jan 5 20:49:56 2025 +0800
+
+    content update
+
+[33mcommit 65060d3f916ac8b7c5e57d9e1b4f6fdd013d8057[m
+Author: Gerry Wong <gerry@arweave.org>
+Date:   Sun Jan 5 20:39:49 2025 +0800
+
+    tasks update
+
+[33mcommit f7b20956d52d952afdcc4bee87c1be11666df04e[m
+Author: Gerry Wong <gerry@arweave.org>
+Date:   Sun Jan 5 20:13:57 2025 +0800
+
+    tasks update
+
+[33mcommit 602ee38667b99919bd7874c599d725003329c144[m
+Merge: 0e2d211b a96aeb08
+Author: Gerry Wang <85090540+gerrywang1117@users.noreply.github.com>
+Date:   Sun Jan 5 16:54:29 2025 +0800
+
+    Merge pull request #4 from gerrywang1117/main
+    
+    More content
+
+[33mcommit a96aeb085291ff32ff055b656a25083ee7c50faf[m
+Author: Gerry Wong <gerry@arweave.org>
+Date:   Sun Jan 5 16:51:42 2025 +0800
+
+    update
+
+[33mcommit a21ae083015d81e6b58ebf8baf56cf98a321f2e2[m
+Author: Gerry Wong <gerry@arweave.org>
+Date:   Sun Jan 5 16:48:12 2025 +0800
+
+    task3 update
+
+[33mcommit e60890e44355c013069150e4786846045acd3847[m
+Author: Gerry Wong <gerry@arweave.org>
+Date:   Sun Jan 5 16:34:21 2025 +0800
+
+    task2 update
+
+[33mcommit e4b0edc377c03d155a6ef05ae1109d53edaedae0[m
+Author: Gerry Wong <gerry@arweave.org>
+Date:   Sun Jan 5 16:21:45 2025 +0800
+
+    task1 update
+
+[33mcommit 4671923b5a93b0085675936e2f2af38a05efd56b[m
+Author: Gerry Wong <gerry@arweave.org>
+Date:   Sun Jan 5 16:12:05 2025 +0800
+
+    update
+
+[33mcommit 59abc6d9699767efe2c1ac5e94cf7ab3f05a0289[m
+Author: Gerry Wong <gerry@arweave.org>
+Date:   Sun Jan 5 16:08:47 2025 +0800
+
+    update
+
+[33mcommit 6747b60f6b5339613211624ef5e0e315eaa67f68[m
+Merge: 8901a644 d510c26f
+Author: Gerry Wong <gerry@arweave.org>
+Date:   Sun Jan 5 16:05:42 2025 +0800
+
+    Merge branch 'main' of https://github.com/gerrywang1117/Arweave-Academy
+
+[33mcommit 8901a644749d161518c9ee7d25d6d4a558f9cd3c[m
+Author: Gerry Wong <gerry@arweave.org>
+Date:   Sun Jan 5 16:02:02 2025 +0800
+
+    update
+
+[33mcommit d510c26ffc85519cb7cd3bc4ae924be9a60afc6c[m
+Author: Gerry Wang <85090540+gerrywang1117@users.noreply.github.com>
+Date:   Sun Jan 5 15:59:53 2025 +0800
+
+    Delete .github/ISSUE_TEMPLATE directory
+
+[33mcommit 45f1ae3e79e6c35cdbbfd3eb213ec329a6627597[m
+Author: Gerry Wang <85090540+gerrywang1117@users.noreply.github.com>
+Date:   Sun Jan 5 15:59:21 2025 +0800
+
+    Update task.yml
+
+[33mcommit 91967046c9ea5c2b0914f56c976b907b15a9dbf7[m
+Author: Gerry Wang <85090540+gerrywang1117@users.noreply.github.com>
+Date:   Sun Jan 5 15:56:48 2025 +0800
+
+    Update task.yml
+
+[33mcommit eba1f84d955041d38e653cfb15e8fbf9233657f9[m
+Author: Gerry Wang <85090540+gerrywang1117@users.noreply.github.com>
+Date:   Sun Jan 5 15:56:33 2025 +0800
+
+    Create task.yml
+
+[33mcommit 4a56a168cba933089eeb77d8e418a45fa37ec384[m
+Author: Gerry Wang <85090540+gerrywang1117@users.noreply.github.com>
+Date:   Sun Jan 5 15:55:38 2025 +0800
+
+    Delete ISSUE_TEMPLATE directory
+
+[33mcommit 47a8879fea7b45fa013fedf4db8c966bdc45dfef[m
+Author: Gerry Wang <85090540+gerrywang1117@users.noreply.github.com>
+Date:   Sun Jan 5 15:50:22 2025 +0800
+
+    Update Task1.yml
+
+[33mcommit d63ecd0ad42382ca1a34dabd3b8bb3b6596b0bbd[m
+Author: Gerry Wang <85090540+gerrywang1117@users.noreply.github.com>
+Date:   Sun Jan 5 15:49:22 2025 +0800
+
+    Create Task1.yml
+
+[33mcommit 1af6df4a69898d2b0adb29adca4ff373830297e7[m
+Merge: 9f26f33d 9de96e42
+Author: Gerry Wong <gerry@arweave.org>
+Date:   Sun Jan 5 15:32:17 2025 +0800
+
+    Merge branch 'main' of https://github.com/gerrywang1117/Arweave-Academy
+
+[33mcommit 9f26f33df5fc0676d76cd2df33ce0183a08beba5[m
+Merge: 000fb160 0e2d211b
+Author: Gerry Wong <gerry@arweave.org>
+Date:   Sun Jan 5 15:31:34 2025 +0800
+
+    Resolve merge conflicts
+
+[33mcommit 9de96e42c545d0230323fc00961dfa85214cf5c8[m
+Author: Gerry Wang <85090540+gerrywang1117@users.noreply.github.com>
+Date:   Sun Jan 5 15:27:59 2025 +0800
+
+    Delete .gitignore
+
+[33mcommit 008da11ee5c122450d7a5d2dc2e6afe95e95b68b[m
+Author: Gerry Wang <85090540+gerrywang1117@users.noreply.github.com>
+Date:   Sun Jan 5 15:27:40 2025 +0800
+
+    Delete doc/.DS_Store
+
+[33mcommit fa7e8773b358373922734155f8eccbd5876106c7[m
+Author: Gerry Wang <85090540+gerrywang1117@users.noreply.github.com>
+Date:   Sun Jan 5 15:25:26 2025 +0800
+
+    Delete .DS_Store
+
+[33mcommit c1e127f30eea9a6908cf4d74566fe69e3947ece0[m
+Author: Gerry Wang <85090540+gerrywang1117@users.noreply.github.com>
+Date:   Sun Jan 5 15:24:32 2025 +0800
+
+    Create .gitignore
+
+[33mcommit 0e2d211bae7dc87bbeac79723be4bf6c13d7a18a[m
+Author: Gerry Wong <gerry@arweave.org>
+Date:   Sun Jan 5 15:10:59 2025 +0800
+
+    update
+
+[33mcommit 0136608f203f584e01fa4a3f7d0dc371f584cbb7[m
+Author: Gerry Wong <gerry@arweave.org>
+Date:   Sun Jan 5 10:39:27 2025 +0800
+
+    update
+
+[33mcommit 0ece7cd189e534c6a0c77dc7896530d7aac5aa16[m
+Author: Gerry Wong <gerry@arweave.org>
+Date:   Sun Jan 5 10:36:52 2025 +0800
+
+    update
+
+[33mcommit b4be9c5b4b2c1af9dc842a33dadb024b51c22260[m
+Author: Gerry Wong <gerry@arweave.org>
+Date:   Sat Jan 4 16:09:51 2025 +0800
+
+    readme update
+
+[33mcommit a435480700c3aa45f8d96b7f4689dc0e1327888b[m
+Author: Gerry Wong <gerry@arweave.org>
+Date:   Sat Jan 4 15:10:36 2025 +0800
+
+    Course guideline
+
+[33mcommit aa14dfb5b2ec2044bac9da209a8ad155ac5103ff[m
+Merge: 1bcdb864 5c167968
+Author: Gerry Wong <gerry@arweave.org>
+Date:   Sat Jan 4 14:54:20 2025 +0800
+
+    Merge branch 'main' of https://github.com/ArweaveOasis/Arweave-Academy
+
+[33mcommit 1bcdb864fdc354e29f6b895d37f596a2dc0b79e9[m
+Author: Gerry Wong <gerry@arweave.org>
+Date:   Sat Jan 4 14:51:28 2025 +0800
+
+    update
+
+[33mcommit 5c167968f3543c5763c19d49e11d9ec62f260a6f[m
+Author: Gerry Wang <85090540+gerrywang1117@users.noreply.github.com>
+Date:   Sat Jan 4 14:34:49 2025 +0800
+
+    Update README.md
+
+[33mcommit ec5b2f94752b2d465cb4933dd9db6fcb55662a18[m
+Author: Gerry Wong <gerry@arweave.org>
+Date:   Fri Jan 3 18:51:52 2025 +0800
+
+    update
+
+[33mcommit 2677108df3260d0239b6aeef85727766c911484e[m
+Author: Gerry Wong <gerry@arweave.org>
+Date:   Fri Jan 3 16:58:42 2025 +0800
+
+    update
+
+[33mcommit 5ecc2ad974435d007188f51dc6141d52fdde2ea2[m
+Author: Gerry Wong <gerry@arweave.org>
+Date:   Fri Jan 3 16:55:11 2025 +0800
+
+    title update
+
+[33mcommit f5158026898a1a96d3476a97008ee5449bac9800[m
+Author: Gerry Wong <gerry@arweave.org>
+Date:   Wed Jan 1 00:38:04 2025 +0800
+
+    banner update
+
+[33mcommit 2dfe362158513c70f147396f676f223302b8cc37[m
+Author: Gerry Wong <gerry@arweave.org>
+Date:   Fri Dec 27 17:52:23 2024 +0800
+
+    update
+
+[33mcommit 628574cd35a437583abb400e2cd1f674200c4b39[m
+Merge: f0e4990f 589e5092
+Author: Gerry Wong <gerry@arweave.org>
+Date:   Fri Dec 27 17:50:16 2024 +0800
+
+    Merge branch 'main' of https://github.com/ArweaveOasis/Arweave-Academy
+
+[33mcommit f0e4990f5dbcde679531e79a43ba4f8a40fc7acd[m
+Author: Gerry Wong <gerry@arweave.org>
+Date:   Fri Dec 27 17:37:45 2024 +0800
+
+    Readme update
+
+[33mcommit 589e5092dbdc126bd5a72f25685415c462790784[m
+Merge: 7966da8f 85507f81
+Author: Gerry Wang <85090540+gerrywang1117@users.noreply.github.com>
+Date:   Fri Dec 27 17:22:13 2024 +0800
+
+    Merge pull request #3 from lynchnode/main
+    
+    Create lynchnode.md
+
+[33mcommit 7966da8ff1f1493ee1e950f2a361b3e474c677c0[m
+Author: Gerry Wong <gerry@arweave.org>
+Date:   Fri Dec 27 17:20:33 2024 +0800
+
+    Readme update
+
+[33mcommit 6222b776011923eee83d1bb7bb5c9ed37a1bf159[m
+Author: Gerry Wong <gerry@arweave.org>
+Date:   Fri Dec 27 17:17:46 2024 +0800
+
+    update
+
+[33mcommit 69b79ec51fa7895f35f087e28c89a25e57ac3a8c[m
+Author: Gerry Wong <gerry@arweave.org>
+Date:   Fri Dec 27 17:15:41 2024 +0800
+
+    update
+
+[33mcommit 7d62dc8a479ce89cdbbc94539f664be7594b52c4[m
+Author: Gerry Wong <gerry@arweave.org>
+Date:   Fri Dec 27 16:07:09 2024 +0800
+
+    ao x link update
+
+[33mcommit db0683f24ea0ac068d0900c92b12491120e9c5d4[m
+Author: Gerry Wong <gerry@arweave.org>
+Date:   Fri Dec 27 16:05:23 2024 +0800
+
+    Follow x account badge update
+
+[33mcommit 90a290a51aaad043d9fd22c663fb56ba02661806[m
+Author: Gerry Wong <gerry@arweave.org>
+Date:   Fri Dec 27 15:30:14 2024 +0800
+
+    Readme update
+
+[33mcommit 85507f81018a44929ae90295ebaeaf4f3390b420[m
+Author: LynchNode <99635034+lynchnode@users.noreply.github.com>
+Date:   Wed Dec 25 20:07:25 2024 +0700
+
+    Create lynchnode.md
+
+[33mcommit 95446a1891f3db2895c86a81e966394d6955ff79[m
+Author: Gerry Wong <gerry@arweave.org>
+Date:   Wed Dec 25 15:26:53 2024 +0800
+
+    1
+
+[33mcommit ac8caeb5c5d78d91a1071c9fdeeb409089f0c553[m
+Author: Gerry Wong <gerry@arweave.org>
+Date:   Tue Dec 24 20:32:50 2024 +0800
+
+    readme update
+
+[33mcommit 4afbc74fc93675b6bf594d7e4b3f3385971eaf7f[m
+Merge: 3395196e 78ae899e
+Author: Gerry Wang <85090540+gerrywang1117@users.noreply.github.com>
+Date:   Tue Dec 24 19:46:44 2024 +0800
+
+    Merge pull request #1 from kewodsol/main
+    
+    kewodsol github registration
+
+[33mcommit 3395196e8156fbf77f2e6d6ab03cbd80f40a2fd4[m
+Author: Gerry Wong <gerry@arweave.org>
+Date:   Tue Dec 24 19:45:15 2024 +0800
+
+    grammar and typo correction
+
+[33mcommit 0909531254e797d717ebd75a0a8c791e5f11b79b[m
+Author: Gerry Wong <gerry@arweave.org>
+Date:   Tue Dec 24 19:36:00 2024 +0800
+
+    update
+
+[33mcommit 51466951024f66930fabc56484eedb065ac4ac39[m
+Author: Gerry Wang <85090540+gerrywang1117@users.noreply.github.com>
+Date:   Tue Dec 24 19:34:22 2024 +0800
+
+    Create LICENSE
+
+[33mcommit 1e3c0cdda1424aa565ad8082bf1e1b4cfe9f2ade[m
+Author: Gerry Wong <gerry@arweave.org>
+Date:   Tue Dec 24 19:30:02 2024 +0800
+
+    readme update
+
+[33mcommit b6bbb4f00fe642aa5eab2812ef8ae907ca680e79[m
+Author: Gerry Wong <gerry@arweave.org>
+Date:   Tue Dec 24 19:26:35 2024 +0800
+
+    update
+
+[33mcommit 36d6ea9c576eac3bdee7c453c54730cf47762b95[m
+Author: Gerry Wong <gerry@arweave.org>
+Date:   Tue Dec 24 19:25:05 2024 +0800
+
+    update
+
+[33mcommit 0c877bbd609bea5b7f1ee04af3cd15153578c98c[m
+Author: Gerry Wong <gerry@arweave.org>
+Date:   Tue Dec 24 19:22:01 2024 +0800
+
+    update
+
+[33mcommit dfb7291100d61f4bf3956a84757add846b139ddf[m
+Author: Gerry Wong <gerry@arweave.org>
+Date:   Tue Dec 24 19:13:48 2024 +0800
+
+    update
+
+[33mcommit 2858a8bb85efa6716f03cfdb444ef6923a7f2340[m
+Author: Gerry Wong <gerry@arweave.org>
+Date:   Tue Dec 24 19:06:32 2024 +0800
+
+    update
+
+[33mcommit b3e477f1b021d889fb4c2626f41e9cf13bdcc01a[m
+Author: Gerry Wong <gerry@arweave.org>
+Date:   Tue Dec 24 19:02:19 2024 +0800
+
+    update
+
+[33mcommit 0e7ece2448c018bb667dcd2473aa5eaf94f13390[m
+Author: Gerry Wong <gerry@arweave.org>
+Date:   Tue Dec 24 18:05:33 2024 +0800
+
+    update
+
+[33mcommit 9d800d4295844b60dbc85877ff78e6d5ef506589[m
+Author: Gerry Wong <gerry@arweave.org>
+Date:   Tue Dec 24 18:04:26 2024 +0800
+
+    update
+
+[33mcommit a39ec3d0fb878a051d471ba3bc39ea47c24088ec[m
+Author: Gerry Wong <gerry@arweave.org>
+Date:   Tue Dec 24 17:47:16 2024 +0800
+
+    folder update
+
+[33mcommit d35b6f2237f81702f38a3b5996541085b9bbcb36[m
+Author: Gerry Wong <gerry@arweave.org>
+Date:   Tue Dec 24 17:41:16 2024 +0800
+
+    tutorial pics upload
+
+[33mcommit 000fb160ec409f411164edc94408f3fddfa613ab[m
+Author: Gerry Wong <gerry@arweave.org>
+Date:   Tue Dec 24 15:05:29 2024 +0800
+
+    xxx submission
+
+[33mcommit 78ae899e075648e35840346d67821e58dfe23359[m
+Author: LynchNode <161241775+kewodsol@users.noreply.github.com>
+Date:   Sun Dec 22 13:54:14 2024 +0700
+
+    kewodsol github registration
+
+[33mcommit 505a7821955ad2acf799bccead5693d1c5b64fee[m
+Author: Gerry Wang <85090540+gerrywang1117@users.noreply.github.com>
+Date:   Fri Dec 20 17:13:54 2024 +0800
+
+    Update gerrywang1117.md
+
+[33mcommit f4228d59849228fc9cf679c05bfb544134df8249[m
+Author: Gerry Wang <85090540+gerrywang1117@users.noreply.github.com>
+Date:   Fri Dec 20 17:12:49 2024 +0800
+
+    Create gerrywang1117.md
+
+[33mcommit 46441d8d084a7e3cd023830193dbbce6fb1f0b76[m
+Author: Gerry Wong <gerry@arweave.org>
+Date:   Fri Dec 20 17:08:55 2024 +0800
+
+    update
+
+[33mcommit e388673c5cc4629164b76b03460c5dbc61701141[m
+Author: Gerry Wong <gerry@arweave.org>
+Date:   Fri Dec 20 17:03:04 2024 +0800
+
+    readme update
+
+[33mcommit fba128e96d40c313bcfb92406589599a2f301d8b[m
+Author: Gerry Wang <85090540+gerrywang1117@users.noreply.github.com>
+Date:   Fri Dec 20 17:00:07 2024 +0800
+
+    Create task5.md
+
+[33mcommit 79ce8283a809ecdc628e6946e3eff8367ab0bb5e[m
+Author: Gerry Wang <85090540+gerrywang1117@users.noreply.github.com>
+Date:   Fri Dec 20 16:59:49 2024 +0800
+
+    Create task4.md
+
+[33mcommit 5604831d49ed3e666d82679c08d17eaf2feebd2b[m
+Author: Gerry Wang <85090540+gerrywang1117@users.noreply.github.com>
+Date:   Fri Dec 20 16:59:29 2024 +0800
+
+    Create task3.md
+
+[33mcommit a42a0c9e9aed3f7da096e5388474a91e3d3fc1e6[m
+Author: Gerry Wang <85090540+gerrywang1117@users.noreply.github.com>
+Date:   Fri Dec 20 16:59:15 2024 +0800
+
+    Create task2.md
+
+[33mcommit 1dc2c17ebfd8addf818b54a70f82a38aaf63ba63[m
+Author: Gerry Wang <85090540+gerrywang1117@users.noreply.github.com>
+Date:   Fri Dec 20 16:56:14 2024 +0800
+
+    Create task1.md
+
+[33mcommit 3e91832a0b50ef8634c8e9f340c00881f9431065[m
+Author: Gerry Wong <gerry@arweave.org>
+Date:   Fri Dec 20 16:55:42 2024 +0800
+
+    update
+
+[33mcommit aa8278adb7895d030ca2469adaa3a719464ec5f0[m
+Author: Gerry Wong <gerry@arweave.org>
+Date:   Fri Dec 20 16:51:52 2024 +0800
+
+    update
+
+[33mcommit 860dfa716fd40421bce16c8395ad096736d2ab95[m
+Author: Gerry Wong <gerry@arweave.org>
+Date:   Fri Dec 20 16:47:32 2024 +0800
+
+    README update
+
+[33mcommit e0b08a3a589c3503f9687b71ae32b2ee3809a975[m
+Author: Gerry Wong <gerry@arweave.org>
+Date:   Fri Dec 20 16:33:11 2024 +0800
+
+    readme update
+
+[33mcommit acc362fafd6ee3e65cf293297461316f8ef6d9b6[m
+Author: Gerry Wong <gerry@arweave.org>
+Date:   Fri Dec 20 15:56:52 2024 +0800
+
+    update
+
+[33mcommit 960918b22a81878d217fa44d33640a9009fb56bd[m
+Author: Gerry Wang <85090540+gerrywang1117@users.noreply.github.com>
+Date:   Fri Dec 20 15:41:52 2024 +0800
+
+    Create template.md
+
+[33mcommit 0eadabfc0eb627158f57ab100378ab0ac7c4fcac[m
+Author: Gerry Wang <85090540+gerrywang1117@users.noreply.github.com>
+Date:   Fri Dec 20 15:40:49 2024 +0800
+
+    Create readme.md
+
+[33mcommit ad9fe2937ccc67f5d5897bc9c1d308b8a8361921[m
+Author: Gerry Wang <85090540+gerrywang1117@users.noreply.github.com>
+Date:   Fri Dec 20 15:40:15 2024 +0800
+
+    Delete readme.md
+
+[33mcommit 3466efe3e4e9cdcf3c6ee596fd4654822579c658[m
+Author: Gerry Wang <85090540+gerrywang1117@users.noreply.github.com>
+Date:   Fri Dec 20 15:38:13 2024 +0800
+
+    Create readme.md
+
+[33mcommit f24134005cc0443d8cf411601c151644116afd80[m
+Author: Gerry Wong <gerry@arweave.org>
+Date:   Fri Dec 20 15:35:22 2024 +0800
+
+    Readme update
+
+[33mcommit 9579073033f7f0886dd9b2860a8d66a9f679cc3b[m
+Author: Gerry Wang <85090540+gerrywang1117@users.noreply.github.com>
+Date:   Fri Dec 20 10:53:52 2024 +0800
+
+    Update README.md
+
+[33mcommit 27ffc52b66c24f636fbb598e751ac0833ca49163[m
+Author: Gerry Wong <gerry@arweave.org>
+Date:   Fri Dec 20 10:53:32 2024 +0800
+
+    1
+
+[33mcommit 71bcf3aaa310e06e93c3112c743b46d2519cd729[m
+Author: Gerry Wang <85090540+gerrywang1117@users.noreply.github.com>
+Date:   Fri Dec 20 10:50:36 2024 +0800
+
+    Update README.md
+
+[33mcommit 23281ca7efc0a99f0b60c41448660e8288c4eadc[m
+Author: Gerry Wong <gerry@arweave.org>
+Date:   Fri Dec 20 10:43:44 2024 +0800
+
+    first commit
